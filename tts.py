@@ -34,7 +34,7 @@ def main():
             en_mp3 = MP3_DIR / f'{rank}.en.mp3'
 
             gtts.gTTS(ru, lang='ru').save(ru_mp3)
-            time.sleep(10)
+            time.sleep(2)
             gtts.gTTS(en, lang='en').save(en_mp3)
 
             n += 1
@@ -58,7 +58,7 @@ def main():
             os.system(f'bash get.sh {en_mp3} "{r}" "{en}" "{wt}" en.mp4')
             os.system(f'bash con.sh mp4/{n}.mp4')
 
-            time.sleep(10)
+            time.sleep(2)
         except Exception as e:
             print(e)
 
