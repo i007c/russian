@@ -1,0 +1,4562 @@
+[
+    {
+        "rank": 1,
+        "russian": "и",
+        "english": "and, though",
+        "type": "conjunction"
+    },
+    { "rank": 2, "russian": "в", "english": "in, at", "type": "preposition" },
+    { "rank": 3, "russian": "не", "english": "not", "type": "particle" },
+    { "rank": 4, "russian": "он", "english": "he", "type": "pronoun" },
+    {
+        "rank": 5,
+        "russian": "на",
+        "english": "on, it, at, to",
+        "type": "preposition"
+    },
+    { "rank": 6, "russian": "я", "english": "I", "type": "pronoun" },
+    {
+        "rank": 7,
+        "russian": "что",
+        "english": "what, that, why",
+        "type": "сonjunction, pronoun"
+    },
+    {
+        "rank": 8,
+        "russian": "тот",
+        "english": "that",
+        "type": "adjective, pronoun"
+    },
+    { "rank": 9, "russian": "быть", "english": "to be", "type": "verb" },
+    {
+        "rank": 10,
+        "russian": "с",
+        "english": "with, and, from, of",
+        "type": "preposition"
+    },
+    {
+        "rank": 11,
+        "russian": "а",
+        "english": "while, and, but",
+        "type": "conjunction"
+    },
+    {
+        "rank": 12,
+        "russian": "весь",
+        "english": "all, everything",
+        "type": "pron, noun"
+    },
+    {
+        "rank": 13,
+        "russian": "это",
+        "english": "that, this, it",
+        "type": "pronoun"
+    },
+    {
+        "rank": 14,
+        "russian": "как",
+        "english": "how, what, as, like",
+        "type": "adverb, conj"
+    },
+    { "rank": 15, "russian": "она", "english": "she", "type": "pronoun" },
+    {
+        "rank": 16,
+        "russian": "по",
+        "english": "on, along, by",
+        "type": "preposition"
+    },
+    {
+        "rank": 17,
+        "russian": "но",
+        "english": "but",
+        "type": "conjunction, noun"
+    },
+    { "rank": 18, "russian": "они", "english": "they", "type": "pronoun" },
+    {
+        "rank": 19,
+        "russian": "к",
+        "english": "to, for, by",
+        "type": "preposition"
+    },
+    {
+        "rank": 20,
+        "russian": "у",
+        "english": "by, with, of",
+        "type": "preposition"
+    },
+    { "rank": 21, "russian": "ты", "english": "you, thou", "type": "pronoun" },
+    {
+        "rank": 22,
+        "russian": "из",
+        "english": "from, of, in",
+        "type": "preposition"
+    },
+    { "rank": 23, "russian": "мы", "english": "we", "type": "pronoun" },
+    {
+        "rank": 24,
+        "russian": "за",
+        "english": "behind, over, at, after",
+        "type": "preposition"
+    },
+    { "rank": 25, "russian": "вы", "english": "you", "type": "pronoun" },
+    {
+        "rank": 26,
+        "russian": "так",
+        "english": "so, thus, then",
+        "type": "adverb"
+    },
+    {
+        "rank": 27,
+        "russian": "же",
+        "english": "and, as for, but, same",
+        "type": "conj, particle"
+    },
+    {
+        "rank": 28,
+        "russian": "от",
+        "english": "from, of, for",
+        "type": "preposition"
+    },
+    {
+        "rank": 29,
+        "russian": "сказать",
+        "english": "to say, to speak",
+        "type": "verb"
+    },
+    { "rank": 30, "russian": "этот", "english": "this", "type": "pronoun" },
+    {
+        "rank": 31,
+        "russian": "который",
+        "english": "which, who, that",
+        "type": "pronoun"
+    },
+    { "rank": 32, "russian": "мочь", "english": "be able", "type": "verb" },
+    {
+        "rank": 33,
+        "russian": "человек",
+        "english": "man, person",
+        "type": "noun"
+    },
+    {
+        "rank": 34,
+        "russian": "о",
+        "english": "of, about, against",
+        "type": "preposition"
+    },
+    {
+        "rank": 35,
+        "russian": "один",
+        "english": "one, some, alone",
+        "type": "cardinal number, pronoun"
+    },
+    { "rank": 36, "russian": "ещё", "english": "still, yet", "type": "adverb" },
+    { "rank": 37, "russian": "бы", "english": "would", "type": "particle" },
+    {
+        "rank": 38,
+        "russian": "такой",
+        "english": "such, so, some",
+        "type": "pronoun"
+    },
+    {
+        "rank": 39,
+        "russian": "только",
+        "english": "only, merely, but",
+        "type": "adverb, conj"
+    },
+    {
+        "rank": 40,
+        "russian": "себя",
+        "english": "myself, himself, herself",
+        "type": "pron, particle"
+    },
+    {
+        "rank": 41,
+        "russian": "своё",
+        "english": "one's own, my, our",
+        "type": "pronoun, noun"
+    },
+    {
+        "rank": 42,
+        "russian": "какой",
+        "english": "what, which, how",
+        "type": "pronoun"
+    },
+    {
+        "rank": 43,
+        "russian": "когда",
+        "english": "when, while, as",
+        "type": "adverb, conj"
+    },
+    {
+        "rank": 44,
+        "russian": "уже",
+        "english": "already, by now",
+        "type": "adverb"
+    },
+    {
+        "rank": 45,
+        "russian": "для",
+        "english": "for, to",
+        "type": "preposition"
+    },
+    {
+        "rank": 46,
+        "russian": "вот",
+        "english": "here, there, this is, that's",
+        "type": "particle"
+    },
+    {
+        "rank": 47,
+        "russian": "кто",
+        "english": "who, that, some",
+        "type": "pronoun"
+    },
+    {
+        "rank": 48,
+        "russian": "да",
+        "english": "yes, but",
+        "type": "conj, particle"
+    },
+    {
+        "rank": 49,
+        "russian": "говорить",
+        "english": "to say, to tell, to speak",
+        "type": "verb"
+    },
+    { "rank": 50, "russian": "год", "english": "year", "type": "noun" },
+    {
+        "rank": 51,
+        "russian": "знать",
+        "english": "to know, be aware",
+        "type": "verb"
+    },
+    { "rank": 52, "russian": "мой", "english": "my, mine", "type": "pronoun" },
+    {
+        "rank": 53,
+        "russian": "до",
+        "english": "to, up to, about, before",
+        "type": "preposition"
+    },
+    { "rank": 54, "russian": "или", "english": "or", "type": "conjunction" },
+    { "rank": 55, "russian": "если", "english": "if", "type": "conjunction" },
+    {
+        "rank": 56,
+        "russian": "время",
+        "english": "time, season",
+        "type": "noun"
+    },
+    { "rank": 57, "russian": "рука", "english": "hand, arm", "type": "noun" },
+    {
+        "rank": 58,
+        "russian": "нет",
+        "english": "no, not, but",
+        "type": "negation"
+    },
+    {
+        "rank": 59,
+        "russian": "самый",
+        "english": "most, the very, the same",
+        "type": "pronoun"
+    },
+    {
+        "rank": 60,
+        "russian": "ни",
+        "english": "not a, not, neither… nor",
+        "type": "conj, particle"
+    },
+    {
+        "rank": 61,
+        "russian": "стать",
+        "english": "to become, begin, come",
+        "type": "verb"
+    },
+    {
+        "rank": 62,
+        "russian": "большой",
+        "english": "big, large, important",
+        "type": "adjective"
+    },
+    { "rank": 63, "russian": "даже", "english": "even", "type": "particle" },
+    {
+        "rank": 64,
+        "russian": "другой",
+        "english": "other, another, different",
+        "type": "pronoun"
+    },
+    { "rank": 65, "russian": "наш", "english": "our, ours", "type": "pronoun" },
+    {
+        "rank": 66,
+        "russian": "свой",
+        "english": "my, our, your",
+        "type": "pronoun"
+    },
+    {
+        "rank": 67,
+        "russian": "ну",
+        "english": "now, right, well, come on",
+        "type": "interj, particle"
+    },
+    {
+        "rank": 68,
+        "russian": "под",
+        "english": "under, for, towards, to",
+        "type": "preposition"
+    },
+    { "rank": 69, "russian": "где", "english": "where", "type": "adverb" },
+    {
+        "rank": 70,
+        "russian": "дело",
+        "english": "business, affair, matter",
+        "type": "noun"
+    },
+    {
+        "rank": 71,
+        "russian": "есть",
+        "english": "to eat, to be",
+        "type": "verb"
+    },
+    {
+        "rank": 72,
+        "russian": "сам",
+        "english": "myself, yourself",
+        "type": "pronoun"
+    },
+    {
+        "rank": 73,
+        "russian": "раз",
+        "english": "time, once, since",
+        "type": "noun, adverb"
+    },
+    {
+        "rank": 74,
+        "russian": "чтобы",
+        "english": "that, in order that",
+        "type": "conjunction, particle"
+    },
+    {
+        "rank": 75,
+        "russian": "два",
+        "english": "two",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 76,
+        "russian": "там",
+        "english": "there, then",
+        "type": "adverb"
+    },
+    {
+        "rank": 77,
+        "russian": "чем",
+        "english": "than; instead of",
+        "type": "conjunction, particle"
+    },
+    { "rank": 78, "russian": "глаз", "english": "eye; sight", "type": "noun" },
+    { "rank": 79, "russian": "жизнь", "english": "life", "type": "noun" },
+    {
+        "rank": 80,
+        "russian": "первый",
+        "english": "first, front, former",
+        "type": "adjective, number"
+    },
+    { "rank": 81, "russian": "день", "english": "day", "type": "noun" },
+    {
+        "rank": 82,
+        "russian": "тут",
+        "english": "here, now, then",
+        "type": "adverb"
+    },
+    {
+        "rank": 83,
+        "russian": "во",
+        "english": "in, at; super, exactly",
+        "type": "preposition, particle"
+    },
+    { "rank": 84, "russian": "ничто", "english": "nothing", "type": "pronoun" },
+    {
+        "rank": 85,
+        "russian": "потом",
+        "english": "afterwards, then",
+        "type": "adverb"
+    },
+    { "rank": 86, "russian": "очень", "english": "very", "type": "adverb" },
+    { "rank": 87, "russian": "со", "english": "with", "type": "preposition" },
+    {
+        "rank": 88,
+        "russian": "хотеть",
+        "english": "to want, like",
+        "type": "verb"
+    },
+    {
+        "rank": 89,
+        "russian": "ли",
+        "english": "whether, if",
+        "type": "conj, particle"
+    },
+    {
+        "rank": 90,
+        "russian": "при",
+        "english": "attached to, in the presence of, by, about; masterrussian, dot com",
+        "type": "preposition"
+    },
+    {
+        "rank": 91,
+        "russian": "голова",
+        "english": "head, mind, brains",
+        "type": "noun"
+    },
+    {
+        "rank": 92,
+        "russian": "надо",
+        "english": "over, above, ought to",
+        "type": "prep, verb"
+    },
+    {
+        "rank": 93,
+        "russian": "без",
+        "english": "without",
+        "type": "preposition"
+    },
+    { "rank": 94, "russian": "видеть", "english": "to see", "type": "verb" },
+    { "rank": 95, "russian": "идти", "english": "to go, come", "type": "verb" },
+    {
+        "rank": 96,
+        "russian": "теперь",
+        "english": "now, nowadays",
+        "type": "adverb"
+    },
+    {
+        "rank": 97,
+        "russian": "тоже",
+        "english": "also, as well, too",
+        "type": "adverb"
+    },
+    {
+        "rank": 98,
+        "russian": "стоять",
+        "english": "to stand, be, stand up",
+        "type": "verb"
+    },
+    { "rank": 99, "russian": "друг", "english": "friend", "type": "noun" },
+    { "rank": 100, "russian": "дом", "english": "house, home", "type": "noun" },
+    {
+        "rank": 101,
+        "russian": "сейчас",
+        "english": "now, presently, soon",
+        "type": "adverb"
+    },
+    {
+        "rank": 102,
+        "russian": "можно",
+        "english": "one can",
+        "type": "predicate"
+    },
+    {
+        "rank": 103,
+        "russian": "после",
+        "english": "after, afterwards",
+        "type": "preposition"
+    },
+    { "rank": 104, "russian": "слово", "english": "word", "type": "noun" },
+    { "rank": 105, "russian": "здесь", "english": "here", "type": "adverb" },
+    {
+        "rank": 106,
+        "russian": "думать",
+        "english": "to think; believe",
+        "type": "verb"
+    },
+    {
+        "rank": 107,
+        "russian": "место",
+        "english": "place; seat",
+        "type": "noun"
+    },
+    { "rank": 108, "russian": "спросить", "english": "to ask", "type": "verb" },
+    {
+        "rank": 109,
+        "russian": "через",
+        "english": "through, across",
+        "type": "preposition"
+    },
+    {
+        "rank": 110,
+        "russian": "лицо",
+        "english": "face; person",
+        "type": "noun"
+    },
+    {
+        "rank": 111,
+        "russian": "что",
+        "english": "what, which, that",
+        "type": "pronoun"
+    },
+    { "rank": 112, "russian": "тогда", "english": "then", "type": "adverb" },
+    {
+        "rank": 113,
+        "russian": "ведь",
+        "english": "you see, you know",
+        "type": "conj"
+    },
+    {
+        "rank": 114,
+        "russian": "хороший",
+        "english": "good, nice (see #152)",
+        "type": "adjective"
+    },
+    {
+        "rank": 115,
+        "russian": "каждый",
+        "english": "each, every",
+        "type": "pronoun"
+    },
+    {
+        "rank": 116,
+        "russian": "новый",
+        "english": "new; modern",
+        "type": "adjective"
+    },
+    { "rank": 117, "russian": "жить", "english": "to live", "type": "verb" },
+    {
+        "rank": 118,
+        "russian": "должный",
+        "english": "due, proper",
+        "type": "adjective"
+    },
+    {
+        "rank": 119,
+        "russian": "смотреть",
+        "english": "to look, watch",
+        "type": "verb"
+    },
+    { "rank": 120, "russian": "почему", "english": "why", "type": "adverb" },
+    {
+        "rank": 121,
+        "russian": "потому",
+        "english": "that's why",
+        "type": "adverb"
+    },
+    {
+        "rank": 122,
+        "russian": "сторона",
+        "english": "side, party",
+        "type": "noun"
+    },
+    { "rank": 123, "russian": "просто", "english": "simply", "type": "adverb" },
+    { "rank": 124, "russian": "нога", "english": "foot, leg", "type": "noun" },
+    { "rank": 125, "russian": "сидеть", "english": "to sit", "type": "verb" },
+    {
+        "rank": 126,
+        "russian": "понять",
+        "english": "to understand; realize",
+        "type": "verb"
+    },
+    {
+        "rank": 127,
+        "russian": "иметь",
+        "english": "to have, own",
+        "type": "verb"
+    },
+    {
+        "rank": 128,
+        "russian": "конечный",
+        "english": "final, last",
+        "type": "adjective"
+    },
+    {
+        "rank": 129,
+        "russian": "делать",
+        "english": "to do, make",
+        "type": "verb"
+    },
+    {
+        "rank": 130,
+        "russian": "вдруг",
+        "english": "suddenly",
+        "type": "adverb"
+    },
+    {
+        "rank": 131,
+        "russian": "над",
+        "english": "above, over",
+        "type": "preposition"
+    },
+    { "rank": 132, "russian": "взять", "english": "to take", "type": "verb" },
+    { "rank": 133, "russian": "никто", "english": "nobody", "type": "pronoun" },
+    {
+        "rank": 134,
+        "russian": "сделать",
+        "english": "to do, make, finish",
+        "type": "verb"
+    },
+    { "rank": 135, "russian": "дверь", "english": "door", "type": "noun" },
+    {
+        "rank": 136,
+        "russian": "перед",
+        "english": "before, in front of",
+        "type": "preposition"
+    },
+    {
+        "rank": 137,
+        "russian": "нужный",
+        "english": "necessary",
+        "type": "adjective"
+    },
+    {
+        "rank": 138,
+        "russian": "понимать",
+        "english": "to understand",
+        "type": "verb"
+    },
+    {
+        "rank": 139,
+        "russian": "казаться",
+        "english": "to seem, appear; masterrussian, dot com",
+        "type": "verb"
+    },
+    {
+        "rank": 140,
+        "russian": "работа",
+        "english": "work, job",
+        "type": "noun"
+    },
+    {
+        "rank": 141,
+        "russian": "три",
+        "english": "three",
+        "type": "cardinal number"
+    },
+    { "rank": 142, "russian": "ваш", "english": "yours", "type": "pronoun" },
+    {
+        "rank": 143,
+        "russian": "уж",
+        "english": "really, already",
+        "type": "adverb,  particle"
+    },
+    {
+        "rank": 144,
+        "russian": "земля",
+        "english": "earth, land, soil",
+        "type": "noun"
+    },
+    {
+        "rank": 145,
+        "russian": "конец",
+        "english": "end, distance",
+        "type": "noun"
+    },
+    {
+        "rank": 146,
+        "russian": "несколько",
+        "english": "several, some",
+        "type": "adverb"
+    },
+    { "rank": 147, "russian": "час", "english": "hour, time", "type": "noun" },
+    { "rank": 148, "russian": "голос", "english": "voice", "type": "noun" },
+    {
+        "rank": 149,
+        "russian": "город",
+        "english": "town, city",
+        "type": "noun"
+    },
+    {
+        "rank": 150,
+        "russian": "последний",
+        "english": "last, the latest, new",
+        "type": "adjective"
+    },
+    {
+        "rank": 151,
+        "russian": "пока",
+        "english": "for the present",
+        "type": "adverb"
+    },
+    {
+        "rank": 152,
+        "russian": "хорошо",
+        "english": "well (see #114)",
+        "type": "adverb"
+    },
+    {
+        "rank": 153,
+        "russian": "давать",
+        "english": "to give; let, allow",
+        "type": "verb"
+    },
+    { "rank": 154, "russian": "вода", "english": "water", "type": "noun" },
+    { "rank": 155, "russian": "более", "english": "more", "type": "adverb" },
+    {
+        "rank": 156,
+        "russian": "хотя",
+        "english": "although",
+        "type": "conjunction"
+    },
+    { "rank": 157, "russian": "всегда", "english": "always", "type": "adverb" },
+    {
+        "rank": 158,
+        "russian": "второй",
+        "english": "second",
+        "type": "ordinal number"
+    },
+    {
+        "rank": 159,
+        "russian": "куда",
+        "english": "where, what for, much",
+        "type": "adverb"
+    },
+    { "rank": 160, "russian": "пойти", "english": "to go", "type": "verb" },
+    {
+        "rank": 161,
+        "russian": "стол",
+        "english": "table, desk; board",
+        "type": "noun"
+    },
+    {
+        "rank": 162,
+        "russian": "ребёнок",
+        "english": "child, kid, infant",
+        "type": "noun"
+    },
+    { "rank": 163, "russian": "увидеть", "english": "to see", "type": "verb" },
+    {
+        "rank": 164,
+        "russian": "сила",
+        "english": "strength, force",
+        "type": "noun"
+    },
+    {
+        "rank": 165,
+        "russian": "отец",
+        "english": "father (see #918)",
+        "type": "noun"
+    },
+    { "rank": 166, "russian": "женщина", "english": "woman", "type": "noun" },
+    {
+        "rank": 167,
+        "russian": "машина",
+        "english": "car, machine, engine",
+        "type": "noun"
+    },
+    {
+        "rank": 168,
+        "russian": "случай",
+        "english": "case, occasion, incident",
+        "type": "noun"
+    },
+    { "rank": 169, "russian": "ночь", "english": "night", "type": "noun" },
+    {
+        "rank": 170,
+        "russian": "сразу",
+        "english": "at once, right away, just",
+        "type": "adverb"
+    },
+    {
+        "rank": 171,
+        "russian": "мир",
+        "english": "world, peace",
+        "type": "noun"
+    },
+    {
+        "rank": 172,
+        "russian": "совсем",
+        "english": "quite, entirely, totally",
+        "type": "adverb"
+    },
+    {
+        "rank": 173,
+        "russian": "остаться",
+        "english": "to remain, stay (see #297)",
+        "type": "verb"
+    },
+    {
+        "rank": 174,
+        "russian": "об",
+        "english": "about, of (see #34)",
+        "type": "preposition"
+    },
+    {
+        "rank": 175,
+        "russian": "вид",
+        "english": "appearance, look, view",
+        "type": "noun"
+    },
+    {
+        "rank": 176,
+        "russian": "выйти",
+        "english": "to go out, come out, appear",
+        "type": "verb"
+    },
+    {
+        "rank": 177,
+        "russian": "дать",
+        "english": "to give; masterrussian, dot com",
+        "type": "verb"
+    },
+    {
+        "rank": 178,
+        "russian": "работать",
+        "english": "to work",
+        "type": "verb"
+    },
+    { "rank": 179, "russian": "любить", "english": "to love", "type": "verb" },
+    { "rank": 180, "russian": "старый", "english": "old", "type": "adjective" },
+    { "rank": 181, "russian": "почти", "english": "almost", "type": "adverb" },
+    { "rank": 182, "russian": "ряд", "english": "row, line", "type": "noun" },
+    {
+        "rank": 183,
+        "russian": "оказаться",
+        "english": "find oneself, turn out",
+        "type": "verb"
+    },
+    {
+        "rank": 184,
+        "russian": "начало",
+        "english": "beginning, origin, source",
+        "type": "noun"
+    },
+    {
+        "rank": 185,
+        "russian": "твой",
+        "english": "your, yours (informal)",
+        "type": "pronoun"
+    },
+    {
+        "rank": 186,
+        "russian": "вопрос",
+        "english": "question, matter, problem",
+        "type": "noun"
+    },
+    {
+        "rank": 187,
+        "russian": "много",
+        "english": "many, much (see #799)",
+        "type": "adverb"
+    },
+    { "rank": 188, "russian": "война", "english": "war", "type": "noun" },
+    { "rank": 189, "russian": "снова", "english": "again", "type": "adverb" },
+    {
+        "rank": 190,
+        "russian": "ответить",
+        "english": "to answer, reply (see #404)",
+        "type": "verb"
+    },
+    {
+        "rank": 191,
+        "russian": "между",
+        "english": "between, among",
+        "type": "preposition"
+    },
+    {
+        "rank": 192,
+        "russian": "подумать",
+        "english": "to think",
+        "type": "verb"
+    },
+    { "rank": 193, "russian": "опять", "english": "again", "type": "adverb" },
+    {
+        "rank": 194,
+        "russian": "белый",
+        "english": "white",
+        "type": "adjective"
+    },
+    { "rank": 195, "russian": "деньги", "english": "money", "type": "noun" },
+    {
+        "rank": 196,
+        "russian": "значить",
+        "english": "to mean,  signify",
+        "type": "verb"
+    },
+    {
+        "rank": 197,
+        "russian": "про",
+        "english": "about, for",
+        "type": "preposition"
+    },
+    {
+        "rank": 198,
+        "russian": "лишь",
+        "english": "only, as soon as",
+        "type": "adverb, conj"
+    },
+    {
+        "rank": 199,
+        "russian": "минута",
+        "english": "minute, moment",
+        "type": "noun"
+    },
+    { "rank": 200, "russian": "жена", "english": "wife", "type": "noun" },
+    {
+        "rank": 201,
+        "russian": "посмотреть",
+        "english": "to take a look, watch, inspect",
+        "type": "verb"
+    },
+    { "rank": 202, "russian": "правда", "english": "truth", "type": "noun" },
+    {
+        "rank": 203,
+        "russian": "главный",
+        "english": "main, chief",
+        "type": "adjective"
+    },
+    { "rank": 204, "russian": "страна", "english": "country", "type": "noun" },
+    {
+        "rank": 205,
+        "russian": "свет",
+        "english": "light;world",
+        "type": "noun"
+    },
+    { "rank": 206, "russian": "ждать", "english": "to wait", "type": "verb" },
+    { "rank": 207, "russian": "мать", "english": "mother", "type": "noun" },
+    {
+        "rank": 208,
+        "russian": "будто",
+        "english": "as if, as though",
+        "type": "conjunction"
+    },
+    { "rank": 209, "russian": "никогда", "english": "never", "type": "adverb" },
+    {
+        "rank": 210,
+        "russian": "товарищ",
+        "english": "comrade, friend",
+        "type": "noun"
+    },
+    {
+        "rank": 211,
+        "russian": "дорога",
+        "english": "road, way, journey",
+        "type": "noun"
+    },
+    {
+        "rank": 212,
+        "russian": "однако",
+        "english": "however, though",
+        "type": "conj,  misc"
+    },
+    {
+        "rank": 213,
+        "russian": "лежать",
+        "english": "to lie, be situated",
+        "type": "verb"
+    },
+    {
+        "rank": 214,
+        "russian": "именно",
+        "english": "namely, just",
+        "type": "misc"
+    },
+    {
+        "rank": 215,
+        "russian": "окно",
+        "english": "window, windowsill",
+        "type": "noun"
+    },
+    {
+        "rank": 216,
+        "russian": "никакой",
+        "english": "no, none",
+        "type": "pronoun"
+    },
+    {
+        "rank": 217,
+        "russian": "найти",
+        "english": "to find, discover, consider",
+        "type": "verb"
+    },
+    { "rank": 218, "russian": "писать", "english": "to write", "type": "verb" },
+    { "rank": 219, "russian": "комната", "english": "a room", "type": "noun" },
+    { "rank": 220, "russian": "Москва", "english": "Moscow", "type": "noun" },
+    {
+        "rank": 221,
+        "russian": "часть",
+        "english": "part, share, department",
+        "type": "noun"
+    },
+    {
+        "rank": 222,
+        "russian": "вообще",
+        "english": "in general, altogether, on the whole",
+        "type": "adverb"
+    },
+    { "rank": 223, "russian": "книга", "english": "a book", "type": "noun" },
+    {
+        "rank": 224,
+        "russian": "маленький",
+        "english": "small, little",
+        "type": "adjective"
+    },
+    {
+        "rank": 225,
+        "russian": "улица",
+        "english": "street; masterrussian, dot com",
+        "type": "noun"
+    },
+    {
+        "rank": 226,
+        "russian": "решить",
+        "english": "to decide, solve",
+        "type": "verb"
+    },
+    {
+        "rank": 227,
+        "russian": "далекий",
+        "english": "distant, remote",
+        "type": "adjective"
+    },
+    {
+        "rank": 228,
+        "russian": "душа",
+        "english": "soul, spirit",
+        "type": "noun"
+    },
+    {
+        "rank": 229,
+        "russian": "чуть",
+        "english": "hardly, slightly",
+        "type": "adverb"
+    },
+    {
+        "rank": 230,
+        "russian": "вернуться",
+        "english": "to return",
+        "type": "verb"
+    },
+    { "rank": 231, "russian": "утро", "english": "morning", "type": "noun" },
+    {
+        "rank": 232,
+        "russian": "некоторый",
+        "english": "some",
+        "type": "pronoun"
+    },
+    {
+        "rank": 233,
+        "russian": "считать",
+        "english": "to count, consider",
+        "type": "verb"
+    },
+    {
+        "rank": 234,
+        "russian": "сколько",
+        "english": "how much, how many",
+        "type": "cardinal"
+    },
+    {
+        "rank": 235,
+        "russian": "помнить",
+        "english": "to remember",
+        "type": "verb"
+    },
+    { "rank": 236, "russian": "вечер", "english": "evening", "type": "noun" },
+    { "rank": 237, "russian": "пол", "english": "floor; sex", "type": "noun" },
+    {
+        "rank": 238,
+        "russian": "таки",
+        "english": "after all",
+        "type": "particle"
+    },
+    {
+        "rank": 239,
+        "russian": "получить",
+        "english": "to receive, get, obtain",
+        "type": "verb"
+    },
+    {
+        "rank": 240,
+        "russian": "народ",
+        "english": "people, nation",
+        "type": "noun"
+    },
+    {
+        "rank": 241,
+        "russian": "плечо",
+        "english": "shoulder, upper arm",
+        "type": "noun"
+    },
+    {
+        "rank": 242,
+        "russian": "хоть",
+        "english": "even, if you want, though",
+        "type": "conjunction"
+    },
+    { "rank": 243, "russian": "сегодня", "english": "today", "type": "adverb" },
+    { "rank": 244, "russian": "бог", "english": "god", "type": "noun" },
+    {
+        "rank": 245,
+        "russian": "вместе",
+        "english": "together",
+        "type": "adverb"
+    },
+    {
+        "rank": 246,
+        "russian": "взгляд",
+        "english": "look, glance; view",
+        "type": "noun"
+    },
+    {
+        "rank": 247,
+        "russian": "ходить",
+        "english": "to go, walk",
+        "type": "verb"
+    },
+    {
+        "rank": 248,
+        "russian": "зачем",
+        "english": "what for, why",
+        "type": "adverb"
+    },
+    {
+        "rank": 249,
+        "russian": "советский",
+        "english": "Soviet",
+        "type": "adjective"
+    },
+    {
+        "rank": 250,
+        "russian": "русский",
+        "english": "Russian",
+        "type": "adjective"
+    },
+    {
+        "rank": 251,
+        "russian": "бывать",
+        "english": "be, visit, happen",
+        "type": "verb"
+    },
+    {
+        "rank": 252,
+        "russian": "полный",
+        "english": "full, complete",
+        "type": "adj"
+    },
+    {
+        "rank": 253,
+        "russian": "прийти",
+        "english": "to come, arrive (see #464)",
+        "type": "verb"
+    },
+    {
+        "rank": 254,
+        "russian": "палец",
+        "english": "finger, toe",
+        "type": "noun"
+    },
+    { "rank": 255, "russian": "Россия", "english": "Russia", "type": "noun" },
+    {
+        "rank": 256,
+        "russian": "любой",
+        "english": "any, every",
+        "type": "pronoun"
+    },
+    {
+        "rank": 257,
+        "russian": "история",
+        "english": "history, story, event",
+        "type": "noun"
+    },
+    {
+        "rank": 258,
+        "russian": "наконец",
+        "english": "at last, finally",
+        "type": "adverb"
+    },
+    {
+        "rank": 259,
+        "russian": "мысль",
+        "english": "thought, idea",
+        "type": "noun"
+    },
+    {
+        "rank": 260,
+        "russian": "узнать",
+        "english": "to know, learn, recognize",
+        "type": "verb"
+    },
+    {
+        "rank": 261,
+        "russian": "назад",
+        "english": "back, backwards",
+        "type": "adverb"
+    },
+    {
+        "rank": 262,
+        "russian": "общий",
+        "english": "general, common",
+        "type": "adjective"
+    },
+    {
+        "rank": 263,
+        "russian": "заметить",
+        "english": "to notice, observe",
+        "type": "verb"
+    },
+    {
+        "rank": 264,
+        "russian": "словно",
+        "english": "as if, like",
+        "type": "conjunction"
+    },
+    {
+        "rank": 265,
+        "russian": "прошлый",
+        "english": "past",
+        "type": "adjective"
+    },
+    {
+        "rank": 266,
+        "russian": "уйти",
+        "english": "to leave, go away",
+        "type": "verb"
+    },
+    {
+        "rank": 267,
+        "russian": "известный",
+        "english": "well-known, famous",
+        "type": "adjective"
+    },
+    {
+        "rank": 268,
+        "russian": "давно",
+        "english": "long ago",
+        "type": "adverb"
+    },
+    { "rank": 269, "russian": "слышать", "english": "to hear", "type": "verb" },
+    {
+        "rank": 270,
+        "russian": "слушать",
+        "english": "to listen, hear",
+        "type": "verb"
+    },
+    {
+        "rank": 271,
+        "russian": "бояться",
+        "english": "to be afraid, fear",
+        "type": "verb"
+    },
+    { "rank": 272, "russian": "сын", "english": "son", "type": "noun" },
+    {
+        "rank": 273,
+        "russian": "нельзя",
+        "english": "it is impossible, can't",
+        "type": "predicate"
+    },
+    {
+        "rank": 274,
+        "russian": "прямо",
+        "english": "straight, frankly",
+        "type": "adverb"
+    },
+    {
+        "rank": 275,
+        "russian": "долго",
+        "english": "for a long time",
+        "type": "adverb"
+    },
+    {
+        "rank": 276,
+        "russian": "быстро",
+        "english": "fast, quickly",
+        "type": "adverb"
+    },
+    { "rank": 277, "russian": "лес", "english": "forest", "type": "noun" },
+    {
+        "rank": 278,
+        "russian": "похожий",
+        "english": "similar, alike",
+        "type": "adjective"
+    },
+    {
+        "rank": 279,
+        "russian": "пора",
+        "english": "time; pore (see #1000)",
+        "type": "noun"
+    },
+    {
+        "rank": 280,
+        "russian": "пять",
+        "english": "five",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 281,
+        "russian": "глядеть",
+        "english": "to look,  gaze",
+        "type": "verb"
+    },
+    { "rank": 282, "russian": "оно", "english": "it", "type": "pronoun" },
+    { "rank": 283, "russian": "сесть", "english": "to sit", "type": "verb" },
+    { "rank": 284, "russian": "имя", "english": "name", "type": "noun" },
+    {
+        "rank": 285,
+        "russian": "ж",
+        "english": "and, as for, but (see #27)",
+        "type": "misc"
+    },
+    {
+        "rank": 286,
+        "russian": "разговор",
+        "english": "talk, conversation",
+        "type": "noun"
+    },
+    { "rank": 287, "russian": "тело", "english": "body", "type": "noun" },
+    {
+        "rank": 288,
+        "russian": "молодой",
+        "english": "young (see #679); bridegroom (as a noun)",
+        "type": "adjective"
+    },
+    { "rank": 289, "russian": "стена", "english": "wall", "type": "noun" },
+    {
+        "rank": 290,
+        "russian": "красный",
+        "english": "red",
+        "type": "adjective"
+    },
+    { "rank": 291, "russian": "читать", "english": "to read", "type": "verb" },
+    { "rank": 292, "russian": "право", "english": "right", "type": "noun" },
+    { "rank": 293, "russian": "старик", "english": "old man", "type": "noun" },
+    {
+        "rank": 294,
+        "russian": "ранний",
+        "english": "early",
+        "type": "adjective"
+    },
+    {
+        "rank": 295,
+        "russian": "хотеться",
+        "english": "want, like",
+        "type": "misc (impersonal)"
+    },
+    { "rank": 296, "russian": "мама", "english": "mummy, mum", "type": "noun" },
+    {
+        "rank": 297,
+        "russian": "оставаться",
+        "english": "to remain, stay (see #173)",
+        "type": "verb"
+    },
+    {
+        "rank": 298,
+        "russian": "высокий",
+        "english": "tall, high",
+        "type": "adjective"
+    },
+    {
+        "rank": 299,
+        "russian": "путь",
+        "english": "way, track, path",
+        "type": "noun"
+    },
+    {
+        "rank": 300,
+        "russian": "поэтому",
+        "english": "therefore",
+        "type": "adverb"
+    },
+    {
+        "rank": 301,
+        "russian": "совершенно",
+        "english": "absolutely, quite",
+        "type": "adverb"
+    },
+    {
+        "rank": 302,
+        "russian": "кроме",
+        "english": "except, besides",
+        "type": "preposition"
+    },
+    {
+        "rank": 303,
+        "russian": "тысяча",
+        "english": "a thousand",
+        "type": "cardinal number"
+    },
+    { "rank": 304, "russian": "месяц", "english": "month", "type": "noun" },
+    {
+        "rank": 305,
+        "russian": "брать",
+        "english": "to take; hire",
+        "type": "verb"
+    },
+    {
+        "rank": 306,
+        "russian": "написать",
+        "english": "to write",
+        "type": "verb"
+    },
+    {
+        "rank": 307,
+        "russian": "целый",
+        "english": "intact, whole, entire",
+        "type": "adjective"
+    },
+    {
+        "rank": 308,
+        "russian": "огромный",
+        "english": "huge, enormous",
+        "type": "adjective"
+    },
+    {
+        "rank": 309,
+        "russian": "начинать",
+        "english": "to begin (see #413)",
+        "type": "verb"
+    },
+    { "rank": 310, "russian": "спина", "english": "back", "type": "noun" },
+    {
+        "rank": 311,
+        "russian": "настоящий",
+        "english": "present;real, true",
+        "type": "adjective"
+    },
+    {
+        "rank": 312,
+        "russian": "пусть",
+        "english": "let's, though",
+        "type": "conj, particle"
+    },
+    {
+        "rank": 313,
+        "russian": "язык",
+        "english": "tongue, language",
+        "type": "noun"
+    },
+    { "rank": 314, "russian": "точно", "english": "exactly", "type": "adverb" },
+    {
+        "rank": 315,
+        "russian": "среди",
+        "english": "among",
+        "type": "preposition"
+    },
+    {
+        "rank": 316,
+        "russian": "чувствовать",
+        "english": "to feel",
+        "type": "verb"
+    },
+    { "rank": 317, "russian": "сердце", "english": "heart", "type": "noun" },
+    { "rank": 318, "russian": "вести", "english": "to lead", "type": "verb" },
+    {
+        "rank": 319,
+        "russian": "иногда",
+        "english": "sometimes",
+        "type": "adverb"
+    },
+    { "rank": 320, "russian": "мальчик", "english": "boy", "type": "noun" },
+    {
+        "rank": 321,
+        "russian": "успеть",
+        "english": "to be in time, be successful",
+        "type": "verb"
+    },
+    { "rank": 322, "russian": "небо", "english": "sky", "type": "noun" },
+    {
+        "rank": 323,
+        "russian": "живой",
+        "english": "living, live, lively",
+        "type": "adjective"
+    },
+    { "rank": 324, "russian": "смерть", "english": "death", "type": "noun" },
+    {
+        "rank": 325,
+        "russian": "продолжать",
+        "english": "to continue",
+        "type": "verb"
+    },
+    {
+        "rank": 326,
+        "russian": "девушка",
+        "english": "girl, miss (see #524)",
+        "type": "noun"
+    },
+    {
+        "rank": 327,
+        "russian": "образ",
+        "english": "shape, form, image",
+        "type": "noun"
+    },
+    {
+        "rank": 328,
+        "russian": "ко",
+        "english": "to, towards, by (see #19)",
+        "type": "preposition"
+    },
+    {
+        "rank": 329,
+        "russian": "забыть",
+        "english": "to forget",
+        "type": "verb"
+    },
+    {
+        "rank": 330,
+        "russian": "вокруг",
+        "english": "around",
+        "type": "preposition"
+    },
+    { "rank": 331, "russian": "письмо", "english": "letter", "type": "noun" },
+    { "rank": 332, "russian": "власть", "english": "power", "type": "noun" },
+    {
+        "rank": 333,
+        "russian": "чёрный",
+        "english": "black (see #456)",
+        "type": "adjective"
+    },
+    {
+        "rank": 334,
+        "russian": "пройти",
+        "english": "to pass, go by, be over (see #543)",
+        "type": "verb"
+    },
+    {
+        "rank": 335,
+        "russian": "появиться",
+        "english": "to appear, show up (see #699)",
+        "type": "verb"
+    },
+    { "rank": 336, "russian": "воздух", "english": "air", "type": "noun" },
+    {
+        "rank": 337,
+        "russian": "разный",
+        "english": "different",
+        "type": "adjective"
+    },
+    {
+        "rank": 338,
+        "russian": "выходить",
+        "english": "to go out; nurse (see #176)",
+        "type": "verb"
+    },
+    { "rank": 339, "russian": "просить", "english": "to ask", "type": "verb" },
+    { "rank": 340, "russian": "брат", "english": "brother", "type": "noun" },
+    {
+        "rank": 341,
+        "russian": "собственный",
+        "english": "one's own; masterrussian, dot com",
+        "type": "adjective"
+    },
+    {
+        "rank": 342,
+        "russian": "отношение",
+        "english": "relationship, attitude",
+        "type": "noun"
+    },
+    {
+        "rank": 343,
+        "russian": "затем",
+        "english": "then, after that",
+        "type": "adverb"
+    },
+    { "rank": 344, "russian": "пытаться", "english": "to try", "type": "verb" },
+    {
+        "rank": 345,
+        "russian": "показать",
+        "english": "to show, display",
+        "type": "verb"
+    },
+    {
+        "rank": 346,
+        "russian": "вспомнить",
+        "english": "to remember, recall",
+        "type": "verb"
+    },
+    { "rank": 347, "russian": "система", "english": "system", "type": "noun" },
+    {
+        "rank": 348,
+        "russian": "четыре",
+        "english": "four",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 349,
+        "russian": "квартира",
+        "english": "flat, apartment",
+        "type": "noun"
+    },
+    {
+        "rank": 350,
+        "russian": "держать",
+        "english": "to hold, keep",
+        "type": "verb"
+    },
+    {
+        "rank": 351,
+        "russian": "также",
+        "english": "also, as well, too",
+        "type": "misc"
+    },
+    { "rank": 352, "russian": "любовь", "english": "love", "type": "noun" },
+    { "rank": 353, "russian": "солдат", "english": "soldier", "type": "noun" },
+    {
+        "rank": 354,
+        "russian": "откуда",
+        "english": "where… from",
+        "type": "adverb"
+    },
+    {
+        "rank": 355,
+        "russian": "чтоб",
+        "english": "that, in order that, (See #74)",
+        "type": "misc"
+    },
+    {
+        "rank": 356,
+        "russian": "называть",
+        "english": "to call, name, (See #597)",
+        "type": "verb"
+    },
+    {
+        "rank": 357,
+        "russian": "третий",
+        "english": "third",
+        "type": "ordinal number"
+    },
+    {
+        "rank": 358,
+        "russian": "хозяин",
+        "english": "master, boss, host",
+        "type": "noun"
+    },
+    {
+        "rank": 359,
+        "russian": "вроде",
+        "english": "like, not unlike",
+        "type": "preposition, particle"
+    },
+    {
+        "rank": 360,
+        "russian": "уходить",
+        "english": "to leave, go away",
+        "type": "verb"
+    },
+    {
+        "rank": 361,
+        "russian": "подойти",
+        "english": "to approach, come up(See #798)",
+        "type": "verb"
+    },
+    {
+        "rank": 362,
+        "russian": "поднять",
+        "english": "to lift, raise",
+        "type": "verb"
+    },
+    {
+        "rank": 363,
+        "russian": "особенно",
+        "english": "especially, particularly",
+        "type": "adverb"
+    },
+    {
+        "rank": 364,
+        "russian": "спрашивать",
+        "english": "to ask, inquire",
+        "type": "verb"
+    },
+    {
+        "rank": 365,
+        "russian": "начальник",
+        "english": "chief, head, superior",
+        "type": "noun"
+    },
+    { "rank": 366, "russian": "оба", "english": "both", "type": "numeral" },
+    {
+        "rank": 367,
+        "russian": "бросить",
+        "english": "to throw",
+        "type": "verb"
+    },
+    { "rank": 368, "russian": "школа", "english": "school", "type": "noun" },
+    {
+        "rank": 369,
+        "russian": "парень",
+        "english": "boy, fellow, guy",
+        "type": "noun"
+    },
+    { "rank": 370, "russian": "кровь", "english": "blood", "type": "noun" },
+    {
+        "rank": 371,
+        "russian": "двадцать",
+        "english": "twenty",
+        "type": "cardinal numberinal number"
+    },
+    { "rank": 372, "russian": "солнце", "english": "sun", "type": "noun" },
+    { "rank": 373, "russian": "неделя", "english": "week", "type": "noun" },
+    {
+        "rank": 374,
+        "russian": "послать",
+        "english": "to send, dispatch",
+        "type": "verb"
+    },
+    {
+        "rank": 375,
+        "russian": "находиться",
+        "english": "to be found, turn up",
+        "type": "verb"
+    },
+    {
+        "rank": 376,
+        "russian": "ребята",
+        "english": "guys, children",
+        "type": "noun"
+    },
+    {
+        "rank": 377,
+        "russian": "поставить",
+        "english": "to put, place, set",
+        "type": "verb"
+    },
+    {
+        "rank": 378,
+        "russian": "встать",
+        "english": "to get up, rise, stand up",
+        "type": "verb"
+    },
+    {
+        "rank": 379,
+        "russian": "например",
+        "english": "for example, for instance",
+        "type": "misc"
+    },
+    { "rank": 380, "russian": "шаг", "english": "step", "type": "noun" },
+    {
+        "rank": 381,
+        "russian": "мужчина",
+        "english": "man, male",
+        "type": "noun"
+    },
+    {
+        "rank": 382,
+        "russian": "равно",
+        "english": "alike, in like manner",
+        "type": "adverb"
+    },
+    { "rank": 383, "russian": "нос", "english": "nose", "type": "noun" },
+    {
+        "rank": 384,
+        "russian": "мало",
+        "english": "little, few, (See #630)",
+        "type": "adverb"
+    },
+    {
+        "rank": 385,
+        "russian": "внимание",
+        "english": "attention",
+        "type": "noun"
+    },
+    {
+        "rank": 386,
+        "russian": "капитан",
+        "english": "captain, master",
+        "type": "noun"
+    },
+    { "rank": 387, "russian": "ухо", "english": "ear", "type": "noun" },
+    { "rank": 388, "russian": "туда", "english": "there", "type": "adverb" },
+    { "rank": 389, "russian": "сюда", "english": "here", "type": "adverb" },
+    { "rank": 390, "russian": "играть", "english": "to play", "type": "verb" },
+    {
+        "rank": 391,
+        "russian": "следовать",
+        "english": "to follow, come next",
+        "type": "verb"
+    },
+    {
+        "rank": 392,
+        "russian": "рассказать",
+        "english": "to tell, narrate(See #403)",
+        "type": "verb"
+    },
+    {
+        "rank": 393,
+        "russian": "великий",
+        "english": "great",
+        "type": "adjective"
+    },
+    {
+        "rank": 394,
+        "russian": "действительно",
+        "english": "indeed, really",
+        "type": "adverb"
+    },
+    {
+        "rank": 395,
+        "russian": "слишком",
+        "english": "too, too much",
+        "type": "adverb"
+    },
+    {
+        "rank": 396,
+        "russian": "тяжёлый",
+        "english": "heavy",
+        "type": "adjective"
+    },
+    { "rank": 397, "russian": "спать", "english": "to sleep", "type": "verb" },
+    {
+        "rank": 398,
+        "russian": "оставить",
+        "english": "to leave, abandon",
+        "type": "verb"
+    },
+    {
+        "rank": 399,
+        "russian": "войти",
+        "english": "to enter, come in",
+        "type": "verb"
+    },
+    {
+        "rank": 400,
+        "russian": "длинный",
+        "english": "long",
+        "type": "adjective"
+    },
+    { "rank": 401, "russian": "чувство", "english": "feeling", "type": "noun" },
+    {
+        "rank": 402,
+        "russian": "молчать",
+        "english": "to keep silence",
+        "type": "verb"
+    },
+    {
+        "rank": 403,
+        "russian": "рассказывать",
+        "english": "to tell, narrate, (See #392)",
+        "type": "verb"
+    },
+    {
+        "rank": 404,
+        "russian": "отвечать",
+        "english": "to answer, reply, (See #190)",
+        "type": "verb"
+    },
+    {
+        "rank": 405,
+        "russian": "становиться",
+        "english": "to stand; to become",
+        "type": "verb"
+    },
+    {
+        "rank": 406,
+        "russian": "остановиться",
+        "english": "to stop",
+        "type": "verb"
+    },
+    {
+        "rank": 407,
+        "russian": "берег",
+        "english": "bank, shore,  coast",
+        "type": "noun"
+    },
+    { "rank": 408, "russian": "семья", "english": "family", "type": "noun" },
+    {
+        "rank": 409,
+        "russian": "искать",
+        "english": "to search",
+        "type": "verb"
+    },
+    { "rank": 410, "russian": "генерал", "english": "general", "type": "noun" },
+    {
+        "rank": 411,
+        "russian": "момент",
+        "english": "moment, instant",
+        "type": "noun"
+    },
+    {
+        "rank": 412,
+        "russian": "десять",
+        "english": "ten",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 413,
+        "russian": "начать",
+        "english": "to begin(See #309)",
+        "type": "verb"
+    },
+    {
+        "rank": 414,
+        "russian": "следующий",
+        "english": "next, following",
+        "type": "adjective"
+    },
+    {
+        "rank": 415,
+        "russian": "личный",
+        "english": "personal",
+        "type": "adjective"
+    },
+    {
+        "rank": 416,
+        "russian": "труд",
+        "english": "labour, work",
+        "type": "noun"
+    },
+    {
+        "rank": 417,
+        "russian": "верить",
+        "english": "to believe; masterrussian, dot com",
+        "type": "verb"
+    },
+    { "rank": 418, "russian": "группа", "english": "group", "type": "noun" },
+    {
+        "rank": 419,
+        "russian": "немного",
+        "english": "a little",
+        "type": "adverb"
+    },
+    {
+        "rank": 420,
+        "russian": "впрочем",
+        "english": "however, though",
+        "type": "conjunction"
+    },
+    {
+        "rank": 421,
+        "russian": "видно",
+        "english": "evidently, obviously",
+        "type": "misc"
+    },
+    {
+        "rank": 422,
+        "russian": "являться",
+        "english": "to appear",
+        "type": "verb"
+    },
+    { "rank": 423, "russian": "муж", "english": "husband", "type": "noun" },
+    {
+        "rank": 424,
+        "russian": "разве",
+        "english": "really?, perhaps",
+        "type": "particle"
+    },
+    {
+        "rank": 425,
+        "russian": "движение",
+        "english": "movement",
+        "type": "noun"
+    },
+    { "rank": 426, "russian": "порядок", "english": "order", "type": "noun" },
+    {
+        "rank": 427,
+        "russian": "ответ",
+        "english": "answer, reply",
+        "type": "noun"
+    },
+    {
+        "rank": 428,
+        "russian": "тихо",
+        "english": "quietly, softly, slowly",
+        "type": "adverb"
+    },
+    {
+        "rank": 429,
+        "russian": "знакомый",
+        "english": "familiar, acquainted",
+        "type": "adjective"
+    },
+    {
+        "rank": 430,
+        "russian": "газета",
+        "english": "newspaper",
+        "type": "noun"
+    },
+    { "rank": 431, "russian": "помощь", "english": "help", "type": "noun" },
+    {
+        "rank": 432,
+        "russian": "сильный",
+        "english": "strong, powerful",
+        "type": "adjective"
+    },
+    {
+        "rank": 433,
+        "russian": "скорый",
+        "english": "quick, fast",
+        "type": "adjective"
+    },
+    { "rank": 434, "russian": "собака", "english": "dog", "type": "noun" },
+    { "rank": 435, "russian": "дерево", "english": "tree", "type": "noun" },
+    { "rank": 436, "russian": "снег", "english": "snow", "type": "noun" },
+    { "rank": 437, "russian": "сон", "english": "dream", "type": "noun" },
+    {
+        "rank": 438,
+        "russian": "смысл",
+        "english": "sense, meaning, purpose",
+        "type": "noun"
+    },
+    {
+        "rank": 439,
+        "russian": "смочь",
+        "english": "to be able",
+        "type": "verb"
+    },
+    {
+        "rank": 440,
+        "russian": "против",
+        "english": "against, opposite, contrary to",
+        "type": "preposition"
+    },
+    {
+        "rank": 441,
+        "russian": "бежать",
+        "english": "to run, hurry",
+        "type": "verb"
+    },
+    {
+        "rank": 442,
+        "russian": "двор",
+        "english": "yard, court",
+        "type": "noun"
+    },
+    {
+        "rank": 443,
+        "russian": "форма",
+        "english": "form, shape, uniform",
+        "type": "noun"
+    },
+    {
+        "rank": 444,
+        "russian": "простой",
+        "english": "simple, easy, plain",
+        "type": "adjective"
+    },
+    {
+        "rank": 445,
+        "russian": "приехать",
+        "english": "to arrive, come",
+        "type": "verb"
+    },
+    {
+        "rank": 446,
+        "russian": "иной",
+        "english": "different, other",
+        "type": "pronoun"
+    },
+    {
+        "rank": 447,
+        "russian": "кричать",
+        "english": "to cry, shout(See #656)",
+        "type": "verb"
+    },
+    {
+        "rank": 448,
+        "russian": "возможность",
+        "english": "possibility, opportunity, chance",
+        "type": "noun"
+    },
+    {
+        "rank": 449,
+        "russian": "общество",
+        "english": "society",
+        "type": "noun"
+    },
+    {
+        "rank": 450,
+        "russian": "зелёный",
+        "english": "green",
+        "type": "adjective"
+    },
+    {
+        "rank": 451,
+        "russian": "грудь",
+        "english": "breast, chest",
+        "type": "noun"
+    },
+    {
+        "rank": 452,
+        "russian": "угол",
+        "english": "corner, angle",
+        "type": "noun"
+    },
+    { "rank": 453, "russian": "открыть", "english": "to open", "type": "verb" },
+    {
+        "rank": 454,
+        "russian": "происходить",
+        "english": "to happen, occur, take place",
+        "type": "verb"
+    },
+    {
+        "rank": 455,
+        "russian": "ладно",
+        "english": "in harmony, well, all right",
+        "type": "adverb"
+    },
+    {
+        "rank": 456,
+        "russian": "чёрный",
+        "english": "black (as in \"she wears black\")(See #333)",
+        "type": "noun"
+    },
+    {
+        "rank": 457,
+        "russian": "век",
+        "english": "century, age",
+        "type": "noun"
+    },
+    { "rank": 458, "russian": "карман", "english": "pocket", "type": "noun" },
+    {
+        "rank": 459,
+        "russian": "ехать",
+        "english": "to go, ride, drive, travel",
+        "type": "verb of motion"
+    },
+    { "rank": 460, "russian": "немец", "english": "German", "type": "noun" },
+    {
+        "rank": 461,
+        "russian": "наверное",
+        "english": "probably, most likely(See #972)",
+        "type": "adverb"
+    },
+    { "rank": 462, "russian": "губа", "english": "lip", "type": "noun" },
+    { "rank": 463, "russian": "дядя", "english": "uncle", "type": "noun" },
+    {
+        "rank": 464,
+        "russian": "приходить",
+        "english": "to come, arrive(See #253)",
+        "type": "verb"
+    },
+    { "rank": 465, "russian": "часто", "english": "often", "type": "adverb" },
+    {
+        "rank": 466,
+        "russian": "домой",
+        "english": "home(as in \"she came home\")",
+        "type": "adverb"
+    },
+    { "rank": 467, "russian": "огонь", "english": "fire", "type": "noun" },
+    { "rank": 468, "russian": "писатель", "english": "writer", "type": "noun" },
+    { "rank": 469, "russian": "армия", "english": "army", "type": "noun" },
+    {
+        "rank": 470,
+        "russian": "состояние",
+        "english": "state, condition; fortune",
+        "type": "noun"
+    },
+    { "rank": 471, "russian": "зуб", "english": "tooth", "type": "noun" },
+    {
+        "rank": 472,
+        "russian": "очередь",
+        "english": "line, queue, turn",
+        "type": "noun"
+    },
+    {
+        "rank": 473,
+        "russian": "кой",
+        "english": "which (old-fashioned, literary); mostly found in set expressions: ни в ко́ем слу́чае, ни ко́им о́бразом, в кои ве́ки, на кой чёрт?",
+        "type": "pronoun"
+    },
+    {
+        "rank": 474,
+        "russian": "подняться",
+        "english": "to rise, climb",
+        "type": "verb"
+    },
+    { "rank": 475, "russian": "камень", "english": "stone", "type": "noun" },
+    { "rank": 476, "russian": "гость", "english": "guest", "type": "noun" },
+    {
+        "rank": 477,
+        "russian": "показаться",
+        "english": "to appear, come in sight",
+        "type": "verb"
+    },
+    { "rank": 478, "russian": "ветер", "english": "wind", "type": "noun" },
+    {
+        "rank": 479,
+        "russian": "собираться",
+        "english": "to gather together, assemble; intend(See #981)",
+        "type": "verb"
+    },
+    {
+        "rank": 480,
+        "russian": "попасть",
+        "english": "to hit; to find oneself",
+        "type": "verb"
+    },
+    {
+        "rank": 481,
+        "russian": "принять",
+        "english": "to take, admit, accept(See #643)",
+        "type": "verb"
+    },
+    {
+        "rank": 482,
+        "russian": "сначала",
+        "english": "at first, from the beginning",
+        "type": "adverb"
+    },
+    { "rank": 483, "russian": "либо", "english": "or", "type": "conjunction" },
+    {
+        "rank": 484,
+        "russian": "поехать",
+        "english": "to depart, set off",
+        "type": "verb"
+    },
+    {
+        "rank": 485,
+        "russian": "услышать",
+        "english": "to hear",
+        "type": "verb"
+    },
+    {
+        "rank": 486,
+        "russian": "уметь",
+        "english": "to be able, know, can",
+        "type": "verb"
+    },
+    {
+        "rank": 487,
+        "russian": "случиться",
+        "english": "to happen",
+        "type": "verb"
+    },
+    {
+        "rank": 488,
+        "russian": "странный",
+        "english": "strange",
+        "type": "adjective"
+    },
+    {
+        "rank": 489,
+        "russian": "единственный",
+        "english": "only, sole",
+        "type": "adjective"
+    },
+    {
+        "rank": 490,
+        "russian": "рота",
+        "english": "company (military)",
+        "type": "noun"
+    },
+    {
+        "rank": 491,
+        "russian": "закон",
+        "english": "law, act, statute",
+        "type": "noun"
+    },
+    {
+        "rank": 492,
+        "russian": "короткий",
+        "english": "short",
+        "type": "adjective"
+    },
+    { "rank": 493, "russian": "море", "english": "sea", "type": "noun" },
+    {
+        "rank": 494,
+        "russian": "добрый",
+        "english": "kind",
+        "type": "adjective"
+    },
+    {
+        "rank": 495,
+        "russian": "тёмный",
+        "english": "dark",
+        "type": "adjective"
+    },
+    {
+        "rank": 496,
+        "russian": "гора",
+        "english": "mountain, hill",
+        "type": "noun"
+    },
+    {
+        "rank": 497,
+        "russian": "врач",
+        "english": "physician, doctor",
+        "type": "noun"
+    },
+    {
+        "rank": 498,
+        "russian": "край",
+        "english": "border, edge; land, country",
+        "type": "noun"
+    },
+    {
+        "rank": 499,
+        "russian": "стараться",
+        "english": "to try, endeavour",
+        "type": "verb"
+    },
+    {
+        "rank": 500,
+        "russian": "лучший",
+        "english": "better, best",
+        "type": "adjective"
+    },
+    { "rank": 501, "russian": "река", "english": "river", "type": "noun" },
+    {
+        "rank": 502,
+        "russian": "военный",
+        "english": "military",
+        "type": "adjective"
+    },
+    {
+        "rank": 503,
+        "russian": "мера",
+        "english": "measure, step",
+        "type": "noun"
+    },
+    {
+        "rank": 504,
+        "russian": "страшный",
+        "english": "terrible, frightful",
+        "type": "adjective"
+    },
+    {
+        "rank": 505,
+        "russian": "вполне",
+        "english": "quite, fully",
+        "type": "adverb"
+    },
+    { "rank": 506, "russian": "звать", "english": "to call", "type": "verb" },
+    {
+        "rank": 507,
+        "russian": "произойти",
+        "english": "to happen, occur, take place",
+        "type": "verb"
+    },
+    {
+        "rank": 508,
+        "russian": "вперед",
+        "english": "forward",
+        "type": "preposition"
+    },
+    {
+        "rank": 509,
+        "russian": "медленно",
+        "english": "slowly",
+        "type": "adverb"
+    },
+    {
+        "rank": 510,
+        "russian": "возле",
+        "english": "by, near, close by",
+        "type": "preposition"
+    },
+    {
+        "rank": 511,
+        "russian": "никак",
+        "english": "in now way, by no means",
+        "type": "adverb"
+    },
+    {
+        "rank": 512,
+        "russian": "заниматься",
+        "english": "to be occupied, engage",
+        "type": "verb"
+    },
+    {
+        "rank": 513,
+        "russian": "действие",
+        "english": "action, effect",
+        "type": "noun"
+    },
+    {
+        "rank": 514,
+        "russian": "довольно",
+        "english": "enough; rather",
+        "type": "adverb"
+    },
+    { "rank": 515, "russian": "вещь", "english": "thing", "type": "noun" },
+    {
+        "rank": 516,
+        "russian": "необходимый",
+        "english": "necessary",
+        "type": "adjective"
+    },
+    { "rank": 517, "russian": "ход", "english": "move", "type": "noun" },
+    { "rank": 518, "russian": "боль", "english": "pain", "type": "noun" },
+    {
+        "rank": 519,
+        "russian": "судьба",
+        "english": "fate, fortune, destiny",
+        "type": "noun"
+    },
+    {
+        "rank": 520,
+        "russian": "причина",
+        "english": "cause, reason, motive",
+        "type": "noun"
+    },
+    {
+        "rank": 521,
+        "russian": "положить",
+        "english": "to lay down, put down, place",
+        "type": "verb"
+    },
+    {
+        "rank": 522,
+        "russian": "едва",
+        "english": "hardly, just, barely",
+        "type": "adverb"
+    },
+    {
+        "rank": 523,
+        "russian": "черта",
+        "english": "line, boundary; trait",
+        "type": "noun"
+    },
+    {
+        "rank": 524,
+        "russian": "девочка",
+        "english": "girl, little girl(See #326)",
+        "type": "noun"
+    },
+    {
+        "rank": 525,
+        "russian": "лёгкий",
+        "english": "light, easy",
+        "type": "adjective"
+    },
+    { "rank": 526, "russian": "волос", "english": "hair", "type": "noun" },
+    {
+        "rank": 527,
+        "russian": "купить",
+        "english": "to buy, purchase",
+        "type": "verb"
+    },
+    {
+        "rank": 528,
+        "russian": "номер",
+        "english": "number, size, room, issue",
+        "type": "noun"
+    },
+    {
+        "rank": 529,
+        "russian": "основной",
+        "english": "main",
+        "type": "adjective"
+    },
+    {
+        "rank": 530,
+        "russian": "широкий",
+        "english": "wide",
+        "type": "adjective"
+    },
+    { "rank": 531, "russian": "умереть", "english": "to die", "type": "verb" },
+    {
+        "rank": 532,
+        "russian": "далеко",
+        "english": "far, far off",
+        "type": "adverb"
+    },
+    { "rank": 533, "russian": "плохо", "english": "badly", "type": "adverb" },
+    {
+        "rank": 534,
+        "russian": "глава",
+        "english": "head, chief",
+        "type": "noun"
+    },
+    {
+        "rank": 535,
+        "russian": "красивый",
+        "english": "beautiful; masterrussian, dot com",
+        "type": "adjective"
+    },
+    {
+        "rank": 536,
+        "russian": "серый",
+        "english": "grey; dull",
+        "type": "adjective"
+    },
+    { "rank": 537, "russian": "пить", "english": "to drink", "type": "verb" },
+    {
+        "rank": 538,
+        "russian": "командир",
+        "english": "commander, commanding officer",
+        "type": "noun"
+    },
+    {
+        "rank": 539,
+        "russian": "обычно",
+        "english": "usually",
+        "type": "adverb"
+    },
+    { "rank": 540, "russian": "партия", "english": "party", "type": "noun" },
+    {
+        "rank": 541,
+        "russian": "проблема",
+        "english": "problem, issue",
+        "type": "noun"
+    },
+    { "rank": 542, "russian": "страх", "english": "fear", "type": "noun" },
+    {
+        "rank": 543,
+        "russian": "проходить",
+        "english": "to pass, go;study(See #334)",
+        "type": "verb"
+    },
+    {
+        "rank": 544,
+        "russian": "ясно",
+        "english": "clear, clearly",
+        "type": "adverb"
+    },
+    {
+        "rank": 545,
+        "russian": "снять",
+        "english": "to take away, take off;photograph",
+        "type": "verb"
+    },
+    { "rank": 546, "russian": "бумага", "english": "paper", "type": "noun" },
+    { "rank": 547, "russian": "герой", "english": "hero", "type": "noun" },
+    {
+        "rank": 548,
+        "russian": "пара",
+        "english": "pair, couple",
+        "type": "noun"
+    },
+    {
+        "rank": 549,
+        "russian": "государство",
+        "english": "State",
+        "type": "noun"
+    },
+    {
+        "rank": 550,
+        "russian": "деревня",
+        "english": "village, country",
+        "type": "noun"
+    },
+    { "rank": 551, "russian": "речь", "english": "speech", "type": "noun" },
+    {
+        "rank": 552,
+        "russian": "начаться",
+        "english": "to begin",
+        "type": "verb"
+    },
+    {
+        "rank": 553,
+        "russian": "средство",
+        "english": "means, remedy",
+        "type": "noun"
+    },
+    {
+        "rank": 554,
+        "russian": "положение",
+        "english": "position, posture, condition, state",
+        "type": "noun"
+    },
+    {
+        "rank": 555,
+        "russian": "связь",
+        "english": "tie, bond; connection, relation",
+        "type": "noun"
+    },
+    {
+        "rank": 556,
+        "russian": "скоро",
+        "english": "quickly, fast, soon",
+        "type": "adverb"
+    },
+    {
+        "rank": 557,
+        "russian": "небольшой",
+        "english": "small, not great",
+        "type": "adjective"
+    },
+    {
+        "rank": 558,
+        "russian": "представлять",
+        "english": "to present, introduce, imagine(See #586)",
+        "type": "verb"
+    },
+    {
+        "rank": 559,
+        "russian": "завтра",
+        "english": "tomorrow",
+        "type": "adverb"
+    },
+    {
+        "rank": 560,
+        "russian": "объяснить",
+        "english": "to explain",
+        "type": "verb"
+    },
+    {
+        "rank": 561,
+        "russian": "пустой",
+        "english": "empty, hollow; idle",
+        "type": "adjective"
+    },
+    {
+        "rank": 562,
+        "russian": "произнести",
+        "english": "to pronounce, say, utter",
+        "type": "verb"
+    },
+    {
+        "rank": 563,
+        "russian": "человеческий",
+        "english": "human",
+        "type": "adjective"
+    },
+    {
+        "rank": 564,
+        "russian": "нравиться",
+        "english": "to please, like",
+        "type": "verb"
+    },
+    {
+        "rank": 565,
+        "russian": "однажды",
+        "english": "once, one day",
+        "type": "adverb"
+    },
+    {
+        "rank": 566,
+        "russian": "мимо",
+        "english": "past, by",
+        "type": "preposition"
+    },
+    {
+        "rank": 567,
+        "russian": "иначе",
+        "english": "otherwise, differentlyl",
+        "type": "adverb"
+    },
+    {
+        "rank": 568,
+        "russian": "существовать",
+        "english": "to exist, to be",
+        "type": "verb"
+    },
+    { "rank": 569, "russian": "класс", "english": "class", "type": "noun" },
+    {
+        "rank": 570,
+        "russian": "удаться",
+        "english": "turn out well, succeed, manage",
+        "type": "verb"
+    },
+    {
+        "rank": 571,
+        "russian": "толстый",
+        "english": "thick, heavy, fat",
+        "type": "adjective"
+    },
+    {
+        "rank": 572,
+        "russian": "цель",
+        "english": "goal, object, target",
+        "type": "noun"
+    },
+    {
+        "rank": 573,
+        "russian": "сквозь",
+        "english": "through",
+        "type": "preposition"
+    },
+    {
+        "rank": 574,
+        "russian": "прийтись",
+        "english": "to fit, fall; have to",
+        "type": "verb"
+    },
+    {
+        "rank": 575,
+        "russian": "чистый",
+        "english": "clean, pure",
+        "type": "adjective"
+    },
+    {
+        "rank": 576,
+        "russian": "знать",
+        "english": "to know(See #51)",
+        "type": "noun"
+    },
+    {
+        "rank": 577,
+        "russian": "прежний",
+        "english": "former",
+        "type": "adjective"
+    },
+    {
+        "rank": 578,
+        "russian": "профессор",
+        "english": "professor",
+        "type": "noun"
+    },
+    {
+        "rank": 579,
+        "russian": "господин",
+        "english": "gentleman, Mr.",
+        "type": "noun"
+    },
+    {
+        "rank": 580,
+        "russian": "счастье",
+        "english": "happiness, luck",
+        "type": "noun"
+    },
+    {
+        "rank": 581,
+        "russian": "худой",
+        "english": "thin, skinny; masterrussian.com",
+        "type": "adjective"
+    },
+    { "rank": 582, "russian": "дух", "english": "spirit", "type": "noun" },
+    { "rank": 583, "russian": "план", "english": "plan", "type": "noun" },
+    {
+        "rank": 584,
+        "russian": "чужой",
+        "english": "somebody else's;strange, foreign",
+        "type": "adjective"
+    },
+    { "rank": 585, "russian": "зал", "english": "hall", "type": "noun" },
+    {
+        "rank": 586,
+        "russian": "представить",
+        "english": "to presetn, produce, introduce(See #558)",
+        "type": "verb"
+    },
+    {
+        "rank": 587,
+        "russian": "особый",
+        "english": "special",
+        "type": "adjective"
+    },
+    {
+        "rank": 588,
+        "russian": "директор",
+        "english": "director, manager",
+        "type": "noun"
+    },
+    {
+        "rank": 589,
+        "russian": "бывший",
+        "english": "former, ex-",
+        "type": "adjective"
+    },
+    { "rank": 590, "russian": "память", "english": "memory", "type": "noun" },
+    {
+        "rank": 591,
+        "russian": "близкий",
+        "english": "near, similar; intimate",
+        "type": "adjective"
+    },
+    { "rank": 592, "russian": "сей", "english": "this", "type": "pronoun" },
+    {
+        "rank": 593,
+        "russian": "результат",
+        "english": "result, outcome",
+        "type": "noun"
+    },
+    {
+        "rank": 594,
+        "russian": "больной",
+        "english": "sick",
+        "type": "adjective"
+    },
+    {
+        "rank": 595,
+        "russian": "данный",
+        "english": "given, present",
+        "type": "adjective"
+    },
+    {
+        "rank": 596,
+        "russian": "кстати",
+        "english": "to the point, at the same time",
+        "type": "adverb"
+    },
+    {
+        "rank": 597,
+        "russian": "назвать",
+        "english": "to call, name(See #356)",
+        "type": "verb"
+    },
+    {
+        "rank": 598,
+        "russian": "след",
+        "english": "track, footprint",
+        "type": "noun"
+    },
+    {
+        "rank": 599,
+        "russian": "улыбаться",
+        "english": "to smile(See #605)",
+        "type": "verb"
+    },
+    { "rank": 600, "russian": "бутылка", "english": "bottle", "type": "noun" },
+    {
+        "rank": 601,
+        "russian": "трудно",
+        "english": "with difficulty",
+        "type": "adverb"
+    },
+    {
+        "rank": 602,
+        "russian": "условие",
+        "english": "condition, term",
+        "type": "noun"
+    },
+    {
+        "rank": 603,
+        "russian": "прежде",
+        "english": "before",
+        "type": "preposition"
+    },
+    {
+        "rank": 604,
+        "russian": "ум",
+        "english": "mind, brains, intellect",
+        "type": "noun"
+    },
+    {
+        "rank": 605,
+        "russian": "улыбнуться",
+        "english": "to smile(See #599)",
+        "type": "verb"
+    },
+    { "rank": 606, "russian": "процесс", "english": "process", "type": "noun" },
+    {
+        "rank": 607,
+        "russian": "картина",
+        "english": "picture, painting",
+        "type": "noun"
+    },
+    {
+        "rank": 608,
+        "russian": "вместо",
+        "english": "instead",
+        "type": "preposition"
+    },
+    {
+        "rank": 609,
+        "russian": "старший",
+        "english": "elder, senior",
+        "type": "adjective"
+    },
+    {
+        "rank": 610,
+        "russian": "легко",
+        "english": "easily, lightly",
+        "type": "adverb"
+    },
+    { "rank": 611, "russian": "центр", "english": "center", "type": "noun" },
+    {
+        "rank": 612,
+        "russian": "подобный",
+        "english": "similar, like",
+        "type": "adjective"
+    },
+    {
+        "rank": 613,
+        "russian": "возможно",
+        "english": "as… as possible(as in \"as soon as possible\")",
+        "type": "adverb"
+    },
+    {
+        "rank": 614,
+        "russian": "около",
+        "english": "by, near",
+        "type": "preposition"
+    },
+    {
+        "rank": 615,
+        "russian": "смеяться",
+        "english": "to laugh",
+        "type": "verb"
+    },
+    {
+        "rank": 616,
+        "russian": "сто",
+        "english": "hundred",
+        "type": "cardinal numberinal number"
+    },
+    { "rank": 617, "russian": "будущее", "english": "future", "type": "noun" },
+    {
+        "rank": 618,
+        "russian": "хватать",
+        "english": "to snatch, seize; be sufficient(See #636)",
+        "type": "verb"
+    },
+    { "rank": 619, "russian": "число", "english": "number", "type": "noun" },
+    {
+        "rank": 620,
+        "russian": "всякое",
+        "english": "any, every",
+        "type": "pronoun"
+    },
+    { "rank": 621, "russian": "рубль", "english": "ruble", "type": "noun" },
+    {
+        "rank": 622,
+        "russian": "почувствовать",
+        "english": "to feel",
+        "type": "verb"
+    },
+    {
+        "rank": 623,
+        "russian": "принести",
+        "english": "to bring; masterrussian",
+        "type": "verb"
+    },
+    {
+        "rank": 624,
+        "russian": "вера",
+        "english": "faith, belief",
+        "type": "noun"
+    },
+    {
+        "rank": 625,
+        "russian": "вовсе",
+        "english": "quiet; not … at all",
+        "type": "adverb"
+    },
+    {
+        "rank": 626,
+        "russian": "удар",
+        "english": "blow, stroke",
+        "type": "noun"
+    },
+    {
+        "rank": 627,
+        "russian": "телефон",
+        "english": "telephone",
+        "type": "noun"
+    },
+    { "rank": 628, "russian": "колено", "english": "knee", "type": "noun" },
+    {
+        "rank": 629,
+        "russian": "согласиться",
+        "english": "to agree, consent",
+        "type": "verb"
+    },
+    {
+        "rank": 630,
+        "russian": "мало",
+        "english": "little, few, not enough(See #384)",
+        "type": "cardinal numberinal number"
+    },
+    {
+        "rank": 631,
+        "russian": "коридор",
+        "english": "corridor, passage",
+        "type": "noun"
+    },
+    {
+        "rank": 632,
+        "russian": "мужик",
+        "english": "muzhik, man",
+        "type": "noun"
+    },
+    {
+        "rank": 633,
+        "russian": "правый",
+        "english": "right",
+        "type": "adjective"
+    },
+    { "rank": 634, "russian": "автор", "english": "author", "type": "noun" },
+    {
+        "rank": 635,
+        "russian": "холодный",
+        "english": "cold, cool",
+        "type": "adjective"
+    },
+    {
+        "rank": 636,
+        "russian": "хватить",
+        "english": "to snatch, seize, suffice(See #618)",
+        "type": "verb"
+    },
+    { "rank": 637, "russian": "многие", "english": "many", "type": "pronoun" },
+    {
+        "rank": 638,
+        "russian": "встреча",
+        "english": "meeting, reception",
+        "type": "noun"
+    },
+    {
+        "rank": 639,
+        "russian": "кабинет",
+        "english": "study, room, office suite",
+        "type": "noun"
+    },
+    {
+        "rank": 640,
+        "russian": "документ",
+        "english": "document",
+        "type": "noun"
+    },
+    {
+        "rank": 641,
+        "russian": "самолёт",
+        "english": "aircraft, aeroplane",
+        "type": "noun"
+    },
+    {
+        "rank": 642,
+        "russian": "вниз",
+        "english": "down, downwards",
+        "type": "adverb"
+    },
+    {
+        "rank": 643,
+        "russian": "принимать",
+        "english": "to take, admit, accept (See #481)",
+        "type": "verb"
+    },
+    { "rank": 644, "russian": "игра", "english": "game, play", "type": "noun" },
+    { "rank": 645, "russian": "рассказ", "english": "story", "type": "noun" },
+    { "rank": 646, "russian": "хлеб", "english": "bread", "type": "noun" },
+    {
+        "rank": 647,
+        "russian": "развитие",
+        "english": "development",
+        "type": "noun"
+    },
+    { "rank": 648, "russian": "убить", "english": "to kill", "type": "verb" },
+    {
+        "rank": 649,
+        "russian": "родной",
+        "english": "own, native, dear",
+        "type": "adjective"
+    },
+    {
+        "rank": 650,
+        "russian": "открытый",
+        "english": "open",
+        "type": "adjective"
+    },
+    { "rank": 651, "russian": "менее", "english": "less", "type": "adverb" },
+    {
+        "rank": 652,
+        "russian": "предложить",
+        "english": "to offer, propose, suggest",
+        "type": "verb"
+    },
+    {
+        "rank": 653,
+        "russian": "жёлтый",
+        "english": "yellow",
+        "type": "adjective"
+    },
+    {
+        "rank": 654,
+        "russian": "приходиться",
+        "english": "to fit, fall; have to",
+        "type": "verb"
+    },
+    { "rank": 655, "russian": "выпить", "english": "to drink", "type": "verb" },
+    {
+        "rank": 656,
+        "russian": "крикнуть",
+        "english": "to cry, shout(See #447)",
+        "type": "verb"
+    },
+    {
+        "rank": 657,
+        "russian": "трубка",
+        "english": "tube, roll, pipe",
+        "type": "noun"
+    },
+    { "rank": 658, "russian": "враг", "english": "enemy", "type": "noun" },
+    {
+        "rank": 659,
+        "russian": "показывать",
+        "english": "to show, display",
+        "type": "verb"
+    },
+    {
+        "rank": 660,
+        "russian": "двое",
+        "english": "two",
+        "type": "cardinal number"
+    },
+    { "rank": 661, "russian": "доктор", "english": "doctor", "type": "noun" },
+    { "rank": 662, "russian": "ладонь", "english": "palm", "type": "noun" },
+    {
+        "rank": 663,
+        "russian": "вызвать",
+        "english": "to call, send(See #821)",
+        "type": "verb"
+    },
+    {
+        "rank": 664,
+        "russian": "спокойно",
+        "english": "quietly",
+        "type": "adverb"
+    },
+    {
+        "rank": 665,
+        "russian": "попросить",
+        "english": "to ask",
+        "type": "verb"
+    },
+    { "rank": 666, "russian": "наука", "english": "science", "type": "noun" },
+    {
+        "rank": 667,
+        "russian": "лейтенант",
+        "english": "lieutenant",
+        "type": "noun"
+    },
+    {
+        "rank": 668,
+        "russian": "служба",
+        "english": "service, work",
+        "type": "noun"
+    },
+    {
+        "rank": 669,
+        "russian": "оказываться",
+        "english": "to turn out, find oneself(See #183)",
+        "type": "verb"
+    },
+    {
+        "rank": 670,
+        "russian": "привести",
+        "english": "to bring",
+        "type": "verb"
+    },
+    {
+        "rank": 671,
+        "russian": "сорок",
+        "english": "forty",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 672,
+        "russian": "счёт",
+        "english": "bill, account",
+        "type": "noun"
+    },
+    {
+        "rank": 673,
+        "russian": "возвращаться",
+        "english": "to return",
+        "type": "verb"
+    },
+    {
+        "rank": 674,
+        "russian": "золотой",
+        "english": "golden",
+        "type": "adjective"
+    },
+    {
+        "rank": 675,
+        "russian": "местный",
+        "english": "local",
+        "type": "adjective"
+    },
+    { "rank": 676, "russian": "кухня", "english": "kitchen", "type": "noun" },
+    {
+        "rank": 677,
+        "russian": "крупный",
+        "english": "large, big, prominent",
+        "type": "adjective"
+    },
+    {
+        "rank": 678,
+        "russian": "решение",
+        "english": "decision, conclusion",
+        "type": "noun"
+    },
+    {
+        "rank": 679,
+        "russian": "молодая",
+        "english": "bride (See #288); young (as an adjective)",
+        "type": "noun"
+    },
+    {
+        "rank": 680,
+        "russian": "тридцать",
+        "english": "thirty",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 681,
+        "russian": "роман",
+        "english": "novel, romance",
+        "type": "noun"
+    },
+    {
+        "rank": 682,
+        "russian": "требовать",
+        "english": "to demand",
+        "type": "verb"
+    },
+    {
+        "rank": 683,
+        "russian": "компания",
+        "english": "company",
+        "type": "noun"
+    },
+    {
+        "rank": 684,
+        "russian": "частый",
+        "english": "frequent",
+        "type": "adjective"
+    },
+    {
+        "rank": 685,
+        "russian": "российский",
+        "english": "Russian",
+        "type": "adjective"
+    },
+    {
+        "rank": 686,
+        "russian": "рабочий",
+        "english": "working",
+        "type": "adjective"
+    },
+    {
+        "rank": 687,
+        "russian": "потерять",
+        "english": "to lose",
+        "type": "verb"
+    },
+    { "rank": 688, "russian": "течение", "english": "current", "type": "noun" },
+    {
+        "rank": 689,
+        "russian": "синий",
+        "english": "dark blue",
+        "type": "adjective"
+    },
+    {
+        "rank": 690,
+        "russian": "столько",
+        "english": "so much, so many",
+        "type": "adverb"
+    },
+    {
+        "rank": 691,
+        "russian": "тёплый",
+        "english": "warm",
+        "type": "adjective"
+    },
+    {
+        "rank": 692,
+        "russian": "метр",
+        "english": "meter, metre",
+        "type": "noun"
+    },
+    {
+        "rank": 693,
+        "russian": "достать",
+        "english": "to reach; get, obtain",
+        "type": "verb"
+    },
+    {
+        "rank": 694,
+        "russian": "железный",
+        "english": "ferreous, iron",
+        "type": "adjective"
+    },
+    {
+        "rank": 695,
+        "russian": "институт",
+        "english": "institute",
+        "type": "noun"
+    },
+    {
+        "rank": 696,
+        "russian": "сообщить",
+        "english": "to report, let know",
+        "type": "verb"
+    },
+    { "rank": 697, "russian": "интерес", "english": "interes", "type": "noun" },
+    {
+        "rank": 698,
+        "russian": "обычный",
+        "english": "usual, ordinary",
+        "type": "adjective"
+    },
+    {
+        "rank": 699,
+        "russian": "появляться",
+        "english": "to appear, show up(See #335)",
+        "type": "verb"
+    },
+    { "rank": 700, "russian": "упасть", "english": "to fall", "type": "verb" },
+    {
+        "rank": 701,
+        "russian": "остальной",
+        "english": "remaining, the rest of",
+        "type": "adjective"
+    },
+    { "rank": 702, "russian": "половина", "english": "half", "type": "noun" },
+    {
+        "rank": 703,
+        "russian": "московский",
+        "english": "Moscow",
+        "type": "adjective"
+    },
+    {
+        "rank": 704,
+        "russian": "шесть",
+        "english": "six",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 705,
+        "russian": "получиться",
+        "english": "to come, arrive, turn out",
+        "type": "verb"
+    },
+    {
+        "rank": 706,
+        "russian": "качество",
+        "english": "quality",
+        "type": "noun"
+    },
+    {
+        "rank": 707,
+        "russian": "бой",
+        "english": "battle, fight, combat",
+        "type": "noun"
+    },
+    { "rank": 708, "russian": "шея", "english": "neck", "type": "noun" },
+    { "rank": 709, "russian": "вон", "english": "out", "type": "adverb" },
+    { "rank": 710, "russian": "идея", "english": "idea", "type": "noun" },
+    {
+        "rank": 711,
+        "russian": "видимо",
+        "english": "apparently, seemingly",
+        "type": "adverb"
+    },
+    {
+        "rank": 712,
+        "russian": "достаточно",
+        "english": "enough, sufficiently",
+        "type": "adverb"
+    },
+    {
+        "rank": 713,
+        "russian": "провести",
+        "english": "to accompany, set off; conduct; spend (See #973)",
+        "type": "verb"
+    },
+    {
+        "rank": 714,
+        "russian": "важный",
+        "english": "important",
+        "type": "adjective"
+    },
+    { "rank": 715, "russian": "трава", "english": "grass", "type": "noun" },
+    {
+        "rank": 716,
+        "russian": "дед",
+        "english": "grandfather, old man",
+        "type": "noun"
+    },
+    {
+        "rank": 717,
+        "russian": "сознание",
+        "english": "consciousness",
+        "type": "noun"
+    },
+    {
+        "rank": 718,
+        "russian": "родитель",
+        "english": "parent; masterrussian, dot, com",
+        "type": "noun"
+    },
+    {
+        "rank": 719,
+        "russian": "простить",
+        "english": "to forgive",
+        "type": "verb"
+    },
+    {
+        "rank": 720,
+        "russian": "бить",
+        "english": "to beat, hit",
+        "type": "verb"
+    },
+    { "rank": 721, "russian": "чай", "english": "tea", "type": "noun" },
+    {
+        "rank": 722,
+        "russian": "поздний",
+        "english": "late",
+        "type": "adjective"
+    },
+    { "rank": 723, "russian": "кивнуть", "english": "to nod", "type": "verb" },
+    {
+        "rank": 724,
+        "russian": "род",
+        "english": "family, clan, generation",
+        "type": "noun"
+    },
+    {
+        "rank": 725,
+        "russian": "исчезнуть",
+        "english": "to disappear",
+        "type": "verb"
+    },
+    {
+        "rank": 726,
+        "russian": "тонкий",
+        "english": "thin",
+        "type": "adjective"
+    },
+    {
+        "rank": 727,
+        "russian": "немецкий",
+        "english": "German",
+        "type": "adjective"
+    },
+    { "rank": 728, "russian": "звук", "english": "sound", "type": "noun" },
+    {
+        "rank": 729,
+        "russian": "отдать",
+        "english": "to return, give back",
+        "type": "verb"
+    },
+    {
+        "rank": 730,
+        "russian": "магазин",
+        "english": "shop, store",
+        "type": "noun"
+    },
+    {
+        "rank": 731,
+        "russian": "президент",
+        "english": "president; director",
+        "type": "noun"
+    },
+    { "rank": 732, "russian": "поэт", "english": "poet", "type": "noun" },
+    {
+        "rank": 733,
+        "russian": "спасибо",
+        "english": "gratitude, thanks",
+        "type": "noun"
+    },
+    {
+        "rank": 734,
+        "russian": "болезнь",
+        "english": "illness, sickness, disease",
+        "type": "noun"
+    },
+    { "rank": 735, "russian": "событие", "english": "event", "type": "noun" },
+    {
+        "rank": 736,
+        "russian": "помочь",
+        "english": "to help (See #857)",
+        "type": "verb"
+    },
+    { "rank": 737, "russian": "кожа", "english": "skin", "type": "noun" },
+    {
+        "rank": 738,
+        "russian": "лист",
+        "english": "leaf, sheet",
+        "type": "noun"
+    },
+    { "rank": 739, "russian": "слать", "english": "to send", "type": "verb" },
+    {
+        "rank": 740,
+        "russian": "вспоминать",
+        "english": "to remember, recall",
+        "type": "verb"
+    },
+    {
+        "rank": 741,
+        "russian": "прекрасный",
+        "english": "beautiful, fine",
+        "type": "adjective"
+    },
+    { "rank": 742, "russian": "слеза", "english": "tear", "type": "noun" },
+    { "rank": 743, "russian": "надежда", "english": "hope", "type": "noun" },
+    {
+        "rank": 744,
+        "russian": "молча",
+        "english": "silently, without a word",
+        "type": "adverb"
+    },
+    {
+        "rank": 745,
+        "russian": "сильно",
+        "english": "strongly",
+        "type": "adverb"
+    },
+    {
+        "rank": 746,
+        "russian": "верный",
+        "english": "correct; faithful; reliable",
+        "type": "adjective"
+    },
+    {
+        "rank": 747,
+        "russian": "литература",
+        "english": "literature",
+        "type": "noun"
+    },
+    { "rank": 748, "russian": "оружие", "english": "weapon", "type": "noun" },
+    {
+        "rank": 749,
+        "russian": "готовый",
+        "english": "ready",
+        "type": "adjective"
+    },
+    {
+        "rank": 750,
+        "russian": "запах",
+        "english": "smell, odour, scent",
+        "type": "noun"
+    },
+    {
+        "rank": 751,
+        "russian": "неожиданно",
+        "english": "unexpectedly, suddenly",
+        "type": "adverb"
+    },
+    {
+        "rank": 752,
+        "russian": "вчера",
+        "english": "yesterday",
+        "type": "adverb"
+    },
+    {
+        "rank": 753,
+        "russian": "вздохнуть",
+        "english": "to take breath, to sigh",
+        "type": "verb"
+    },
+    { "rank": 754, "russian": "роль", "english": "role", "type": "noun" },
+    {
+        "rank": 755,
+        "russian": "рост",
+        "english": "growth, increase; height",
+        "type": "noun"
+    },
+    { "rank": 756, "russian": "природа", "english": "nature", "type": "noun" },
+    {
+        "rank": 757,
+        "russian": "политический",
+        "english": "political",
+        "type": "adjective"
+    },
+    {
+        "rank": 758,
+        "russian": "точка",
+        "english": "dot, point",
+        "type": "noun"
+    },
+    { "rank": 759, "russian": "звезда", "english": "star", "type": "noun" },
+    { "rank": 760, "russian": "петь", "english": "to sing", "type": "verb" },
+    {
+        "rank": 761,
+        "russian": "садиться",
+        "english": "to sit down",
+        "type": "verb"
+    },
+    { "rank": 762, "russian": "фамилия", "english": "surname", "type": "noun" },
+    {
+        "rank": 763,
+        "russian": "характер",
+        "english": "character, disposition, temper",
+        "type": "noun"
+    },
+    {
+        "rank": 764,
+        "russian": "пожалуйста",
+        "english": "please",
+        "type": "misc"
+    },
+    { "rank": 765, "russian": "выше", "english": "higher", "type": "adverb" },
+    { "rank": 766, "russian": "офицер", "english": "officer", "type": "noun" },
+    { "rank": 767, "russian": "толпа", "english": "crowd", "type": "noun" },
+    {
+        "rank": 768,
+        "russian": "перестать",
+        "english": "to stop, cease",
+        "type": "verb"
+    },
+    {
+        "rank": 769,
+        "russian": "придтись",
+        "english": "to fit, fall; have to",
+        "type": "verb"
+    },
+    { "rank": 770, "russian": "уровень", "english": "level", "type": "noun" },
+    {
+        "rank": 771,
+        "russian": "неизвестный",
+        "english": "unknown",
+        "type": "adjective"
+    },
+    { "rank": 772, "russian": "кресло", "english": "armchair", "type": "noun" },
+    {
+        "rank": 773,
+        "russian": "баба",
+        "english": "woman, wife, old woman, (See #911)",
+        "type": "noun"
+    },
+    {
+        "rank": 774,
+        "russian": "секунда",
+        "english": "a second",
+        "type": "noun"
+    },
+    {
+        "rank": 775,
+        "russian": "пожаловать",
+        "english": "to grant, bestow",
+        "type": "verb"
+    },
+    { "rank": 776, "russian": "банк", "english": "bank", "type": "noun" },
+    { "rank": 777, "russian": "опыт", "english": "experience", "type": "noun" },
+    {
+        "rank": 778,
+        "russian": "тихий",
+        "english": "quiet, low, scelent",
+        "type": "adjective"
+    },
+    {
+        "rank": 779,
+        "russian": "поскольку",
+        "english": "so far as, since",
+        "type": "misc"
+    },
+    {
+        "rank": 780,
+        "russian": "сапог",
+        "english": "(high) boot",
+        "type": "noun"
+    },
+    { "rank": 781, "russian": "правило", "english": "rule", "type": "noun" },
+    { "rank": 782, "russian": "стекло", "english": "glass", "type": "noun" },
+    {
+        "rank": 783,
+        "russian": "получать",
+        "english": "to receive, get (See #239)",
+        "type": "verb"
+    },
+    {
+        "rank": 784,
+        "russian": "внутренний",
+        "english": "inside, internal",
+        "type": "adjective"
+    },
+    { "rank": 785, "russian": "дочь", "english": "daughter", "type": "noun" },
+    {
+        "rank": 786,
+        "russian": "называться",
+        "english": "to call oneself",
+        "type": "verb"
+    },
+    {
+        "rank": 787,
+        "russian": "надеяться",
+        "english": "to hope",
+        "type": "verb"
+    },
+    {
+        "rank": 788,
+        "russian": "член",
+        "english": "member, limb",
+        "type": "noun"
+    },
+    {
+        "rank": 789,
+        "russian": "протянуть",
+        "english": "to stretch, extend",
+        "type": "verb"
+    },
+    {
+        "rank": 790,
+        "russian": "государственный",
+        "english": "State",
+        "type": "adjective"
+    },
+    {
+        "rank": 791,
+        "russian": "десяток",
+        "english": "ten, dozens",
+        "type": "noun"
+    },
+    {
+        "rank": 792,
+        "russian": "глубокий",
+        "english": "deep",
+        "type": "adjective"
+    },
+    { "rank": 793, "russian": "цветок", "english": "flower", "type": "noun" },
+    { "rank": 794, "russian": "ах", "english": "ah!, oh!", "type": "misc" },
+    { "rank": 795, "russian": "желание", "english": "wish", "type": "noun" },
+    { "rank": 796, "russian": "дождь", "english": "rain", "type": "noun" },
+    {
+        "rank": 797,
+        "russian": "впереди",
+        "english": "before, in front of",
+        "type": "preposition"
+    },
+    {
+        "rank": 798,
+        "russian": "подходить",
+        "english": "to come up, approach;to fit(See #361)",
+        "type": "verb"
+    },
+    {
+        "rank": 799,
+        "russian": "много",
+        "english": "many, much, a lot of(See #187)",
+        "type": "adverb"
+    },
+    { "rank": 800, "russian": "лоб", "english": "forehead", "type": "noun" },
+    { "rank": 801, "russian": "улыбка", "english": "smile", "type": "noun" },
+    {
+        "rank": 802,
+        "russian": "борьба",
+        "english": "fight, struggle",
+        "type": "noun"
+    },
+    { "rank": 803, "russian": "ворот", "english": "collar", "type": "noun" },
+    { "rank": 804, "russian": "ящик", "english": "box, case", "type": "noun" },
+    {
+        "rank": 805,
+        "russian": "этаж",
+        "english": "floor, storey",
+        "type": "noun"
+    },
+    {
+        "rank": 806,
+        "russian": "служить",
+        "english": "to serve",
+        "type": "verb"
+    },
+    {
+        "rank": 807,
+        "russian": "вновь",
+        "english": "again, once more",
+        "type": "adverb"
+    },
+    {
+        "rank": 808,
+        "russian": "голубой",
+        "english": "blue, sky-blue",
+        "type": "adjective"
+    },
+    {
+        "rank": 809,
+        "russian": "нечего",
+        "english": "there is nothing, there is no need",
+        "type": "misc"
+    },
+    {
+        "rank": 810,
+        "russian": "революция",
+        "english": "revolution",
+        "type": "noun"
+    },
+    {
+        "rank": 811,
+        "russian": "впервые",
+        "english": "for the first time",
+        "type": "adverb"
+    },
+    { "rank": 812, "russian": "сосед", "english": "neighbour", "type": "noun" },
+    { "rank": 813, "russian": "сестра", "english": "sister", "type": "noun" },
+    {
+        "rank": 814,
+        "russian": "долгий",
+        "english": "long",
+        "type": "adjective"
+    },
+    { "rank": 815, "russian": "чей", "english": "whose", "type": "pronoun" },
+    {
+        "rank": 816,
+        "russian": "поверить",
+        "english": "to believe",
+        "type": "verb"
+    },
+    {
+        "rank": 817,
+        "russian": "ситуация",
+        "english": "situation",
+        "type": "noun"
+    },
+    {
+        "rank": 818,
+        "russian": "взглянуть",
+        "english": "to look, give a glance",
+        "type": "verb"
+    },
+    {
+        "rank": 819,
+        "russian": "слабый",
+        "english": "weak",
+        "type": "adjective"
+    },
+    {
+        "rank": 820,
+        "russian": "количество",
+        "english": "quantity",
+        "type": "noun"
+    },
+    {
+        "rank": 821,
+        "russian": "вызывать (See #663)",
+        "english": "to call, send",
+        "type": "verb"
+    },
+    {
+        "rank": 822,
+        "russian": "уверенный",
+        "english": "confident, sure",
+        "type": "adjective"
+    },
+    { "rank": 823, "russian": "выход", "english": "exit", "type": "noun" },
+    {
+        "rank": 824,
+        "russian": "совет",
+        "english": "advice; masterrussian, dot com",
+        "type": "noun"
+    },
+    {
+        "rank": 825,
+        "russian": "дурак",
+        "english": "fool, idiot",
+        "type": "noun"
+    },
+    {
+        "rank": 826,
+        "russian": "любимый",
+        "english": "dear, loved",
+        "type": "adjective"
+    },
+    {
+        "rank": 827,
+        "russian": "союз",
+        "english": "union, alliance; conjunction",
+        "type": "noun"
+    },
+    { "rank": 828, "russian": "лето", "english": "summer", "type": "noun" },
+    {
+        "rank": 829,
+        "russian": "ожидать",
+        "english": "to expect",
+        "type": "verb"
+    },
+    {
+        "rank": 830,
+        "russian": "пришлый",
+        "english": "alien, strange",
+        "type": "adjective"
+    },
+    { "rank": 831, "russian": "висеть", "english": "to hang", "type": "verb" },
+    { "rank": 832, "russian": "граница", "english": "border", "type": "noun" },
+    {
+        "rank": 833,
+        "russian": "цвет",
+        "english": "colour, color",
+        "type": "noun"
+    },
+    {
+        "rank": 834,
+        "russian": "серьёзный",
+        "english": "serious",
+        "type": "adjective"
+    },
+    {
+        "rank": 835,
+        "russian": "создать",
+        "english": "to create, establish",
+        "type": "verb"
+    },
+    {
+        "rank": 836,
+        "russian": "интересно",
+        "english": "interestingly",
+        "type": "adverb"
+    },
+    { "rank": 837, "russian": "свобода", "english": "freedom", "type": "noun" },
+    {
+        "rank": 838,
+        "russian": "зато",
+        "english": "but, but then",
+        "type": "conjunction"
+    },
+    { "rank": 839, "russian": "стул", "english": "chair", "type": "noun" },
+    {
+        "rank": 840,
+        "russian": "уехать",
+        "english": "to leave, depart",
+        "type": "verb"
+    },
+    { "rank": 841, "russian": "поезд", "english": "train", "type": "noun" },
+    { "rank": 842, "russian": "музыка", "english": "music", "type": "noun" },
+    {
+        "rank": 843,
+        "russian": "быстрый",
+        "english": "quick, fast",
+        "type": "adjective"
+    },
+    { "rank": 844, "russian": "тень", "english": "shadow", "type": "noun" },
+    { "rank": 845, "russian": "лошадь", "english": "horse", "type": "noun" },
+    { "rank": 846, "russian": "поле", "english": "field", "type": "noun" },
+    {
+        "rank": 847,
+        "russian": "выглядеть",
+        "english": "to look",
+        "type": "verb"
+    },
+    {
+        "rank": 848,
+        "russian": "учиться",
+        "english": "to study, learn",
+        "type": "verb"
+    },
+    { "rank": 849, "russian": "левый", "english": "left", "type": "adjective" },
+    {
+        "rank": 850,
+        "russian": "разговаривать",
+        "english": "to talk, speak",
+        "type": "verb"
+    },
+    {
+        "rank": 851,
+        "russian": "детский",
+        "english": "child's, children's",
+        "type": "adjective"
+    },
+    { "rank": 852, "russian": "тип", "english": "type, model", "type": "noun" },
+    {
+        "rank": 853,
+        "russian": "суд",
+        "english": "court, law-court",
+        "type": "noun"
+    },
+    {
+        "rank": 854,
+        "russian": "связанный",
+        "english": "related, connected, tied-up",
+        "type": "adjective"
+    },
+    {
+        "rank": 855,
+        "russian": "горячий",
+        "english": "hot",
+        "type": "adjective"
+    },
+    {
+        "rank": 856,
+        "russian": "площадь",
+        "english": "square, area",
+        "type": "noun"
+    },
+    {
+        "rank": 857,
+        "russian": "помогать",
+        "english": "to help, assist(See #736)",
+        "type": "verb"
+    },
+    {
+        "rank": 858,
+        "russian": "счастливый",
+        "english": "happy",
+        "type": "adjective"
+    },
+    {
+        "rank": 859,
+        "russian": "повернуться",
+        "english": "to turn",
+        "type": "verb"
+    },
+    {
+        "rank": 860,
+        "russian": "позволить",
+        "english": "to allow, permit",
+        "type": "verb"
+    },
+    {
+        "rank": 861,
+        "russian": "встретить",
+        "english": "to meet",
+        "type": "verb"
+    },
+    {
+        "rank": 862,
+        "russian": "радость",
+        "english": "gladness, joy",
+        "type": "noun"
+    },
+    {
+        "rank": 863,
+        "russian": "острый",
+        "english": "sharp; spicy",
+        "type": "adjective"
+    },
+    { "rank": 864, "russian": "возраст", "english": "age", "type": "noun" },
+    {
+        "rank": 865,
+        "russian": "орган",
+        "english": "organ, body",
+        "type": "noun"
+    },
+    { "rank": 866, "russian": "карта", "english": "map", "type": "noun" },
+    {
+        "rank": 867,
+        "russian": "входить",
+        "english": "to enter, come in",
+        "type": "verb"
+    },
+    {
+        "rank": 868,
+        "russian": "обнаружить",
+        "english": "to discover, find out",
+        "type": "verb"
+    },
+    { "rank": 869, "russian": "король", "english": "king", "type": "noun" },
+    {
+        "rank": 870,
+        "russian": "слава",
+        "english": "glory, fame",
+        "type": "noun"
+    },
+    {
+        "rank": 871,
+        "russian": "полковник",
+        "english": "colonel",
+        "type": "noun"
+    },
+    {
+        "rank": 872,
+        "russian": "мелкий",
+        "english": "shallow, small",
+        "type": "adjective"
+    },
+    { "rank": 873, "russian": "бок", "english": "side, flank", "type": "noun" },
+    { "rank": 874, "russian": "цена", "english": "price", "type": "noun" },
+    {
+        "rank": 875,
+        "russian": "информация",
+        "english": "information",
+        "type": "noun"
+    },
+    { "rank": 876, "russian": "мозг", "english": "brain", "type": "noun" },
+    {
+        "rank": 877,
+        "russian": "удовольствие",
+        "english": "pleasure",
+        "type": "noun"
+    },
+    { "rank": 878, "russian": "воля", "english": "will", "type": "noun" },
+    {
+        "rank": 879,
+        "russian": "область",
+        "english": "oblast, province; field",
+        "type": "noun"
+    },
+    { "rank": 880, "russian": "крыша", "english": "roof", "type": "noun" },
+    { "rank": 881, "russian": "нести", "english": "to carry", "type": "verb" },
+    {
+        "rank": 882,
+        "russian": "обратно",
+        "english": "back, backwards",
+        "type": "adverb"
+    },
+    {
+        "rank": 883,
+        "russian": "современный",
+        "english": "contemporary, modern, up-to-date",
+        "type": "adjective"
+    },
+    {
+        "rank": 884,
+        "russian": "дама",
+        "english": "lady, partner, queen",
+        "type": "noun"
+    },
+    {
+        "rank": 885,
+        "russian": "семь",
+        "english": "seven",
+        "type": "cardinal number"
+    },
+    {
+        "rank": 886,
+        "russian": "весёлый",
+        "english": "cheerful, merry",
+        "type": "adjective"
+    },
+    {
+        "rank": 887,
+        "russian": "прислать",
+        "english": "to send",
+        "type": "verb"
+    },
+    {
+        "rank": 888,
+        "russian": "сад",
+        "english": "garden, yard",
+        "type": "noun"
+    },
+    {
+        "rank": 889,
+        "russian": "правительство",
+        "english": "government",
+        "type": "noun"
+    },
+    {
+        "rank": 890,
+        "russian": "милый",
+        "english": "nice, sweet, dear",
+        "type": "adjective"
+    },
+    {
+        "rank": 891,
+        "russian": "относиться",
+        "english": "to treat, regard, relate",
+        "type": "verb"
+    },
+    {
+        "rank": 892,
+        "russian": "возникать",
+        "english": "to arise, appear(See #951)",
+        "type": "verb"
+    },
+    {
+        "rank": 893,
+        "russian": "мол",
+        "english": "he says, they say, etc.",
+        "type": "misc"
+    },
+    {
+        "rank": 894,
+        "russian": "повторить",
+        "english": "to repeat",
+        "type": "verb"
+    },
+    {
+        "rank": 895,
+        "russian": "название",
+        "english": "name, title",
+        "type": "noun"
+    },
+    {
+        "rank": 896,
+        "russian": "средний",
+        "english": "average, middle",
+        "type": "adjective"
+    },
+    { "rank": 897, "russian": "пример", "english": "example", "type": "noun" },
+    {
+        "rank": 898,
+        "russian": "невозможно",
+        "english": "impossible",
+        "type": "adverb"
+    },
+    { "rank": 899, "russian": "зеркало", "english": "mirror", "type": "noun" },
+    {
+        "rank": 900,
+        "russian": "погибнуть",
+        "english": "to perish, be killed",
+        "type": "verb"
+    },
+    {
+        "rank": 901,
+        "russian": "американский",
+        "english": "American",
+        "type": "adjective"
+    },
+    { "rank": 902, "russian": "дым", "english": "smoke", "type": "noun" },
+    { "rank": 903, "russian": "гореть", "english": "to burn", "type": "verb" },
+    { "rank": 904, "russian": "плакать", "english": "to cry", "type": "verb" },
+    {
+        "rank": 905,
+        "russian": "весьма",
+        "english": "very, highly, greatly",
+        "type": "adverb"
+    },
+    { "rank": 906, "russian": "факт", "english": "fact", "type": "noun" },
+    {
+        "rank": 907,
+        "russian": "двигаться",
+        "english": "to move",
+        "type": "verb"
+    },
+    { "rank": 908, "russian": "рыба", "english": "fish", "type": "noun" },
+    { "rank": 909, "russian": "добавить", "english": "to add", "type": "verb" },
+    {
+        "rank": 910,
+        "russian": "удивиться",
+        "english": "to wonder, be surprised",
+        "type": "verb"
+    },
+    {
+        "rank": 911,
+        "russian": "бабушка",
+        "english": "grandmother(See #773)",
+        "type": "noun"
+    },
+    { "rank": 912, "russian": "вино", "english": "wine", "type": "noun" },
+    { "rank": 913, "russian": "ибо", "english": "for", "type": "conjunction" },
+    {
+        "rank": 914,
+        "russian": "учитель",
+        "english": "teacher, instructor",
+        "type": "noun"
+    },
+    {
+        "rank": 915,
+        "russian": "действовать",
+        "english": "to act",
+        "type": "verb"
+    },
+    {
+        "rank": 916,
+        "russian": "осторожно",
+        "english": "carefully, cautiously",
+        "type": "adverb"
+    },
+    {
+        "rank": 917,
+        "russian": "круг",
+        "english": "circle; masterrussian, dot com",
+        "type": "noun"
+    },
+    {
+        "rank": 918,
+        "russian": "папа",
+        "english": "dad, daddy(See #165)",
+        "type": "noun"
+    },
+    {
+        "rank": 919,
+        "russian": "правильно",
+        "english": "correctly, properly",
+        "type": "adverb"
+    },
+    {
+        "rank": 920,
+        "russian": "недавно",
+        "english": "recently, lately",
+        "type": "adverb"
+    },
+    {
+        "rank": 921,
+        "russian": "держаться",
+        "english": "to hold on, behave",
+        "type": "verb"
+    },
+    {
+        "rank": 922,
+        "russian": "причём",
+        "english": "moreover, and what's more",
+        "type": "adverb"
+    },
+    { "rank": 923, "russian": "лететь", "english": "to fly", "type": "verb" },
+    { "rank": 924, "russian": "носить", "english": "to wear", "type": "verb" },
+    {
+        "rank": 925,
+        "russian": "повод",
+        "english": "occasion, reason; bridle",
+        "type": "noun"
+    },
+    { "rank": 926, "russian": "лагерь", "english": "camp", "type": "noun" },
+    { "rank": 927, "russian": "птица", "english": "bird", "type": "noun" },
+    { "rank": 928, "russian": "корабль", "english": "ship", "type": "noun" },
+    { "rank": 929, "russian": "мнение", "english": "opinion", "type": "noun" },
+    {
+        "rank": 930,
+        "russian": "ночной",
+        "english": "night",
+        "type": "adjective"
+    },
+    {
+        "rank": 931,
+        "russian": "здоровый",
+        "english": "healthy",
+        "type": "adjective"
+    },
+    { "rank": 932, "russian": "зима", "english": "winter", "type": "noun" },
+    { "rank": 933, "russian": "сухой", "english": "dry", "type": "adjective" },
+    {
+        "rank": 934,
+        "russian": "километр",
+        "english": "kilometre, kilometer",
+        "type": "noun"
+    },
+    { "rank": 935, "russian": "кровать", "english": "bed", "type": "noun" },
+    {
+        "rank": 936,
+        "russian": "привыкнуть",
+        "english": "to get used to, to grow accustomed to",
+        "type": "verb"
+    },
+    {
+        "rank": 937,
+        "russian": "прочее",
+        "english": "et cetera, other",
+        "type": "pronoun"
+    },
+    {
+        "rank": 938,
+        "russian": "свободный",
+        "english": "free",
+        "type": "adjective"
+    },
+    {
+        "rank": 939,
+        "russian": "лестница",
+        "english": "staircase",
+        "type": "noun"
+    },
+    {
+        "rank": 940,
+        "russian": "неужели",
+        "english": "really, surely",
+        "type": "particle"
+    },
+    {
+        "rank": 941,
+        "russian": "обязательно",
+        "english": "without fail, be sure",
+        "type": "adverb"
+    },
+    {
+        "rank": 942,
+        "russian": "вверх",
+        "english": "up, upwards",
+        "type": "adverb"
+    },
+    {
+        "rank": 943,
+        "russian": "детство",
+        "english": "childhood",
+        "type": "noun"
+    },
+    { "rank": 944, "russian": "остров", "english": "island", "type": "noun" },
+    { "rank": 945, "russian": "статья", "english": "article", "type": "noun" },
+    {
+        "rank": 946,
+        "russian": "позвонить",
+        "english": "to call, to telephone",
+        "type": "verb"
+    },
+    { "rank": 947, "russian": "столь", "english": "so", "type": "adverb" },
+    {
+        "rank": 948,
+        "russian": "мешать",
+        "english": "to interfere, prevent; mix",
+        "type": "verb"
+    },
+    { "rank": 949, "russian": "водка", "english": "vodka", "type": "noun" },
+    {
+        "rank": 950,
+        "russian": "темнота",
+        "english": "darkness",
+        "type": "noun"
+    },
+    {
+        "rank": 951,
+        "russian": "возникнуть",
+        "english": "to arise, spring up(See #892)",
+        "type": "verb"
+    },
+    {
+        "rank": 952,
+        "russian": "способный",
+        "english": "capable (of)",
+        "type": "adjective"
+    },
+    { "rank": 953, "russian": "станция", "english": "station", "type": "noun" },
+    { "rank": 954, "russian": "желать", "english": "to wish", "type": "verb" },
+    {
+        "rank": 955,
+        "russian": "попробовать",
+        "english": "to try, test",
+        "type": "verb"
+    },
+    {
+        "rank": 956,
+        "russian": "получаться",
+        "english": "to come out",
+        "type": "verb"
+    },
+    {
+        "rank": 957,
+        "russian": "гражданин",
+        "english": "citizen",
+        "type": "noun"
+    },
+    {
+        "rank": 958,
+        "russian": "странно",
+        "english": "strangely",
+        "type": "adverb"
+    },
+    {
+        "rank": 959,
+        "russian": "вскоре",
+        "english": "soon, shortly",
+        "type": "adverb"
+    },
+    {
+        "rank": 960,
+        "russian": "интересный",
+        "english": "interesting",
+        "type": "adjective"
+    },
+    {
+        "rank": 961,
+        "russian": "команда",
+        "english": "team; command",
+        "type": "noun"
+    },
+    {
+        "rank": 962,
+        "russian": "заболевание",
+        "english": "disease, illness",
+        "type": "noun"
+    },
+    {
+        "rank": 963,
+        "russian": "живот",
+        "english": "stomach, belly",
+        "type": "noun"
+    },
+    {
+        "rank": 964,
+        "russian": "ставить",
+        "english": "to put, place, set",
+        "type": "verb"
+    },
+    {
+        "rank": 965,
+        "russian": "ради",
+        "english": "for the sake of",
+        "type": "preposition"
+    },
+    {
+        "rank": 966,
+        "russian": "тишина",
+        "english": "silence, stillness",
+        "type": "noun"
+    },
+    {
+        "rank": 967,
+        "russian": "понятно",
+        "english": "clearly, plainly",
+        "type": "adverb"
+    },
+    { "rank": 968, "russian": "фронт", "english": "front", "type": "noun" },
+    { "rank": 969, "russian": "щека", "english": "cheek", "type": "noun" },
+    {
+        "rank": 970,
+        "russian": "страшно",
+        "english": "terribly, awfully",
+        "type": "adverb"
+    },
+    {
+        "rank": 971,
+        "russian": "район",
+        "english": "area, region",
+        "type": "noun"
+    },
+    {
+        "rank": 972,
+        "russian": "наверно",
+        "english": "probably(See #461)",
+        "type": "adverb"
+    },
+    {
+        "rank": 973,
+        "russian": "проводить",
+        "english": "to lead, escort; accompany(See #713)",
+        "type": "verb"
+    },
+    {
+        "rank": 974,
+        "russian": "выражение",
+        "english": "expression",
+        "type": "noun"
+    },
+    {
+        "rank": 975,
+        "russian": "слегка",
+        "english": "slightly",
+        "type": "adverb"
+    },
+    { "rank": 976, "russian": "мешок", "english": "bag, sack", "type": "noun" },
+    {
+        "rank": 977,
+        "russian": "обещать",
+        "english": "to promise",
+        "type": "verb"
+    },
+    {
+        "rank": 978,
+        "russian": "дорогой",
+        "english": "on the way",
+        "type": "adjective"
+    },
+    {
+        "rank": 979,
+        "russian": "судить",
+        "english": "to judge, try",
+        "type": "verb"
+    },
+    {
+        "rank": 980,
+        "russian": "большинство",
+        "english": "majority",
+        "type": "noun"
+    },
+    {
+        "rank": 981,
+        "russian": "собраться",
+        "english": "to gather, collect(See #479)",
+        "type": "verb"
+    },
+    {
+        "rank": 982,
+        "russian": "управление",
+        "english": "operation, control",
+        "type": "noun"
+    },
+    { "rank": 983, "russian": "колоть", "english": "to prick", "type": "verb" },
+    { "rank": 984, "russian": "мокрый", "english": "wet", "type": "adjective" },
+    { "rank": 985, "russian": "приказ", "english": "order", "type": "noun" },
+    {
+        "rank": 986,
+        "russian": "прямой",
+        "english": "straight",
+        "type": "adjective"
+    },
+    {
+        "rank": 987,
+        "russian": "закричать",
+        "english": "to shout, cry out",
+        "type": "verb"
+    },
+    {
+        "rank": 988,
+        "russian": "кончиться",
+        "english": "to end",
+        "type": "verb"
+    },
+    { "rank": 989, "russian": "куст", "english": "bush", "type": "noun" },
+    {
+        "rank": 990,
+        "russian": "стрелять",
+        "english": "to shoot",
+        "type": "verb"
+    },
+    {
+        "rank": 991,
+        "russian": "художник",
+        "english": "painter, artist",
+        "type": "noun"
+    },
+    { "rank": 992, "russian": "знак", "english": "sign", "type": "noun" },
+    { "rank": 993, "russian": "завод", "english": "factory", "type": "noun" },
+    { "rank": 994, "russian": "кулак", "english": "fist", "type": "noun" },
+    {
+        "rank": 995,
+        "russian": "использовать",
+        "english": "to use, utilize, make use of",
+        "type": "verb"
+    },
+    { "rank": 996, "russian": "стакан", "english": "glass", "type": "noun" },
+    {
+        "rank": 997,
+        "russian": "пахнуть",
+        "english": "to smell",
+        "type": "verb"
+    },
+    {
+        "rank": 998,
+        "russian": "отсюда",
+        "english": "from here",
+        "type": "adverb"
+    },
+    { "rank": 999, "russian": "рот", "english": "mouth", "type": "noun" },
+    {
+        "rank": 1000,
+        "russian": "пора",
+        "english": "it's time;at times, now and then(See #279)",
+        "type": "misc"
+    }
+]
