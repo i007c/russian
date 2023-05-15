@@ -500,7 +500,8 @@
     {
         "rank": 114,
         "russian": "хороший",
-        "english": "good, nice (see #152)",
+        "english": "good, nice ",
+        "ref": 152,
         "type": "adjective"
     },
     {
@@ -673,7 +674,8 @@
     {
         "rank": 152,
         "russian": "хорошо",
-        "english": "well (see #114)",
+        "english": "well ",
+        "ref": 114,
         "type": "adverb"
     },
     {
@@ -726,7 +728,8 @@
     {
         "rank": 165,
         "russian": "отец",
-        "english": "father (see #918)",
+        "english": "father ",
+        "ref": 918,
         "type": "noun"
     },
     { "rank": 166, "russian": "женщина", "english": "woman", "type": "noun" },
@@ -764,13 +767,15 @@
     {
         "rank": 173,
         "russian": "остаться",
-        "english": "to remain, stay (see #297)",
+        "english": "to remain, stay ",
+        "ref": 297,
         "type": "verb"
     },
     {
         "rank": 174,
         "russian": "об",
-        "english": "about, of (see #34)",
+        "english": "about, of ",
+        "ref": 34,
         "type": "preposition"
     },
     {
@@ -828,7 +833,8 @@
     {
         "rank": 187,
         "russian": "много",
-        "english": "many, much (see #799)",
+        "english": "many, much ",
+        "ref": 799,
         "type": "adverb"
     },
     { "rank": 188, "russian": "война", "english": "war", "type": "noun" },
@@ -836,7 +842,8 @@
     {
         "rank": 190,
         "russian": "ответить",
-        "english": "to answer, reply (see #404)",
+        "english": "to answer, reply ",
+        "ref": 404,
         "type": "verb"
     },
     {
@@ -1129,7 +1136,8 @@
     {
         "rank": 253,
         "russian": "прийти",
-        "english": "to come, arrive (see #464)",
+        "english": "to come, arrive ",
+        "ref": 464,
         "type": "verb"
     },
     {
@@ -1265,7 +1273,8 @@
     {
         "rank": 279,
         "russian": "пора",
-        "english": "time; pore (see #1000)",
+        "english": "time; pore ",
+        "ref": 1000,
         "type": "noun"
     },
     {
@@ -1286,7 +1295,8 @@
     {
         "rank": 285,
         "russian": "ж",
-        "english": "and, as for, but (see #27)",
+        "english": "and, as for, but ",
+        "ref": 27,
         "type": "misc"
     },
     {
@@ -1299,7 +1309,8 @@
     {
         "rank": 288,
         "russian": "молодой",
-        "english": "young (see #679); bridegroom (as a noun)",
+        "english": "young",
+        "ref": 679,
         "type": "adjective"
     },
     { "rank": 289, "russian": "стена", "english": "wall", "type": "noun" },
@@ -1328,7 +1339,8 @@
     {
         "rank": 297,
         "russian": "оставаться",
-        "english": "to remain, stay (see #173)",
+        "english": "to remain, stay ",
+        "ref": 173,
         "type": "verb"
     },
     {
@@ -1395,7 +1407,8 @@
     {
         "rank": 309,
         "russian": "начинать",
-        "english": "to begin (see #413)",
+        "english": "to begin ",
+        "ref": 413,
         "type": "verb"
     },
     { "rank": 310, "russian": "спина", "english": "back", "type": "noun" },
@@ -1462,7 +1475,8 @@
     {
         "rank": 326,
         "russian": "девушка",
-        "english": "girl, miss (see #524)",
+        "english": "girl, miss ",
+        "ref": 524,
         "type": "noun"
     },
     {
@@ -1474,7 +1488,8 @@
     {
         "rank": 328,
         "russian": "ко",
-        "english": "to, towards, by (see #19)",
+        "english": "to, towards, by ",
+        "ref": 19,
         "type": "preposition"
     },
     {
@@ -1494,19 +1509,22 @@
     {
         "rank": 333,
         "russian": "чёрный",
-        "english": "black (see #456)",
+        "english": "black ",
+        "ref": 456,
         "type": "adjective"
     },
     {
         "rank": 334,
         "russian": "пройти",
-        "english": "to pass, go by, be over (see #543)",
+        "english": "to pass, go by, be over ",
+        "ref": 543,
         "type": "verb"
     },
     {
         "rank": 335,
         "russian": "появиться",
-        "english": "to appear, show up (see #699)",
+        "english": "to appear, show up ",
+        "ref": 699,
         "type": "verb"
     },
     { "rank": 336, "russian": "воздух", "english": "air", "type": "noun" },
@@ -1519,7 +1537,8 @@
     {
         "rank": 338,
         "russian": "выходить",
-        "english": "to go out; nurse (see #176)",
+        "english": "to go out; nurse ",
+        "ref": 176,
         "type": "verb"
     },
     { "rank": 339, "russian": "просить", "english": "to ask", "type": "verb" },
@@ -1591,13 +1610,15 @@
     {
         "rank": 355,
         "russian": "чтоб",
-        "english": "that, in order that, (See #74)",
+        "english": "that, in order that, ",
+        "ref": 74,
         "type": "misc"
     },
     {
         "rank": 356,
         "russian": "называть",
-        "english": "to call, name, (See #597)",
+        "english": "to call, name, ",
+        "ref": 597,
         "type": "verb"
     },
     {
@@ -1627,7 +1648,8 @@
     {
         "rank": 361,
         "russian": "подойти",
-        "english": "to approach, come up(See #798)",
+        "english": "to approach, come up",
+        "ref": 798,
         "type": "verb"
     },
     {
@@ -1730,7 +1752,8 @@
     {
         "rank": 384,
         "russian": "мало",
-        "english": "little, few, (See #630)",
+        "english": "little, few, ",
+        "ref": 630,
         "type": "adverb"
     },
     {
@@ -1758,7 +1781,8 @@
     {
         "rank": 392,
         "russian": "рассказать",
-        "english": "to tell, narrate(See #403)",
+        "english": "to tell, narrate",
+        "ref": 403,
         "type": "verb"
     },
     {
@@ -1814,13 +1838,15 @@
     {
         "rank": 403,
         "russian": "рассказывать",
-        "english": "to tell, narrate, (See #392)",
+        "english": "to tell, narrate, ",
+        "ref": 392,
         "type": "verb"
     },
     {
         "rank": 404,
         "russian": "отвечать",
-        "english": "to answer, reply, (See #190)",
+        "english": "to answer, reply, ",
+        "ref": 190,
         "type": "verb"
     },
     {
@@ -1864,7 +1890,8 @@
     {
         "rank": 413,
         "russian": "начать",
-        "english": "to begin(See #309)",
+        "english": "to begin",
+        "ref": 309,
         "type": "verb"
     },
     {
@@ -2028,7 +2055,8 @@
     {
         "rank": 447,
         "russian": "кричать",
-        "english": "to cry, shout(See #656)",
+        "english": "to cry, shout",
+        "ref": 656,
         "type": "verb"
     },
     {
@@ -2077,7 +2105,8 @@
     {
         "rank": 456,
         "russian": "чёрный",
-        "english": "black (as in \"she wears black\")(See #333)",
+        "english": "black (as in 'she wears black')",
+        "ref": 333,
         "type": "noun"
     },
     {
@@ -2097,7 +2126,8 @@
     {
         "rank": 461,
         "russian": "наверное",
-        "english": "probably, most likely(See #972)",
+        "english": "probably, most likely",
+        "ref": 972,
         "type": "adverb"
     },
     { "rank": 462, "russian": "губа", "english": "lip", "type": "noun" },
@@ -2105,7 +2135,8 @@
     {
         "rank": 464,
         "russian": "приходить",
-        "english": "to come, arrive(See #253)",
+        "english": "to come, arrive",
+        "ref": 253,
         "type": "verb"
     },
     { "rank": 465, "russian": "часто", "english": "often", "type": "adverb" },
@@ -2149,7 +2180,8 @@
     {
         "rank": 479,
         "russian": "собираться",
-        "english": "to gather together, assemble; intend(See #981)",
+        "english": "to gather together, assemble; intend",
+        "ref": 981,
         "type": "verb"
     },
     {
@@ -2161,7 +2193,8 @@
     {
         "rank": 481,
         "russian": "принять",
-        "english": "to take, admit, accept(See #643)",
+        "english": "to take, admit, accept",
+        "ref": 643,
         "type": "verb"
     },
     {
@@ -2384,7 +2417,8 @@
     {
         "rank": 524,
         "russian": "девочка",
-        "english": "girl, little girl(See #326)",
+        "english": "girl, little girl",
+        "ref": 326,
         "type": "noun"
     },
     {
@@ -2468,7 +2502,8 @@
     {
         "rank": 543,
         "russian": "проходить",
-        "english": "to pass, go;study(See #334)",
+        "english": "to pass, go;study",
+        "ref": 334,
         "type": "verb"
     },
     {
@@ -2543,7 +2578,8 @@
     {
         "rank": 558,
         "russian": "представлять",
-        "english": "to present, introduce, imagine(See #586)",
+        "english": "to present, introduce, imagine",
+        "ref": 586,
         "type": "verb"
     },
     {
@@ -2646,7 +2682,8 @@
     {
         "rank": 576,
         "russian": "знать",
-        "english": "to know(See #51)",
+        "english": "to know",
+        "ref": 51,
         "type": "noun"
     },
     {
@@ -2691,7 +2728,8 @@
     {
         "rank": 586,
         "russian": "представить",
-        "english": "to presetn, produce, introduce(See #558)",
+        "english": "to presetn, produce, introduce",
+        "ref": 558,
         "type": "verb"
     },
     {
@@ -2747,7 +2785,8 @@
     {
         "rank": 597,
         "russian": "назвать",
-        "english": "to call, name(See #356)",
+        "english": "to call, name",
+        "ref": 356,
         "type": "verb"
     },
     {
@@ -2759,7 +2798,8 @@
     {
         "rank": 599,
         "russian": "улыбаться",
-        "english": "to smile(See #605)",
+        "english": "to smile",
+        "ref": 605,
         "type": "verb"
     },
     { "rank": 600, "russian": "бутылка", "english": "bottle", "type": "noun" },
@@ -2790,7 +2830,8 @@
     {
         "rank": 605,
         "russian": "улыбнуться",
-        "english": "to smile(See #599)",
+        "english": "to smile",
+        "ref": 599,
         "type": "verb"
     },
     { "rank": 606, "russian": "процесс", "english": "process", "type": "noun" },
@@ -2828,7 +2869,7 @@
     {
         "rank": 613,
         "russian": "возможно",
-        "english": "as… as possible(as in \"as soon as possible\")",
+        "english": "as soon as possible",
         "type": "adverb"
     },
     {
@@ -2853,7 +2894,8 @@
     {
         "rank": 618,
         "russian": "хватать",
-        "english": "to snatch, seize; be sufficient(See #636)",
+        "english": "to snatch, seize; be sufficient",
+        "ref": 636,
         "type": "verb"
     },
     { "rank": 619, "russian": "число", "english": "number", "type": "noun" },
@@ -2910,7 +2952,8 @@
     {
         "rank": 630,
         "russian": "мало",
-        "english": "little, few, not enough(See #384)",
+        "english": "little, few, not enough",
+        "ref": 384,
         "type": "cardinal numberinal number"
     },
     {
@@ -2941,7 +2984,8 @@
     {
         "rank": 636,
         "russian": "хватить",
-        "english": "to snatch, seize, suffice(See #618)",
+        "english": "to snatch, seize, suffice",
+        "ref": 618,
         "type": "verb"
     },
     { "rank": 637, "russian": "многие", "english": "many", "type": "pronoun" },
@@ -2978,7 +3022,8 @@
     {
         "rank": 643,
         "russian": "принимать",
-        "english": "to take, admit, accept (See #481)",
+        "english": "to take, admit, accept ",
+        "ref": 481,
         "type": "verb"
     },
     { "rank": 644, "russian": "игра", "english": "game, play", "type": "noun" },
@@ -3026,7 +3071,8 @@
     {
         "rank": 656,
         "russian": "крикнуть",
-        "english": "to cry, shout(See #447)",
+        "english": "to cry, shout",
+        "ref": 447,
         "type": "verb"
     },
     {
@@ -3053,7 +3099,8 @@
     {
         "rank": 663,
         "russian": "вызвать",
-        "english": "to call, send(See #821)",
+        "english": "to call, send",
+        "ref": 821,
         "type": "verb"
     },
     {
@@ -3084,7 +3131,8 @@
     {
         "rank": 669,
         "russian": "оказываться",
-        "english": "to turn out, find oneself(See #183)",
+        "english": "to turn out, find oneself",
+        "ref": 183,
         "type": "verb"
     },
     {
@@ -3139,7 +3187,8 @@
     {
         "rank": 679,
         "russian": "молодая",
-        "english": "bride (See #288); young (as an adjective)",
+        "english": "bride ",
+        "ref": 288,
         "type": "noun"
     },
     {
@@ -3249,7 +3298,8 @@
     {
         "rank": 699,
         "russian": "появляться",
-        "english": "to appear, show up(See #335)",
+        "english": "to appear, show up",
+        "ref": 335,
         "type": "verb"
     },
     { "rank": 700, "russian": "упасть", "english": "to fall", "type": "verb" },
@@ -3308,7 +3358,8 @@
     {
         "rank": 713,
         "russian": "провести",
-        "english": "to accompany, set off; conduct; spend (See #973)",
+        "english": "to accompany, set off; conduct; spend ",
+        "ref": 973,
         "type": "verb"
     },
     {
@@ -3416,7 +3467,8 @@
     {
         "rank": 736,
         "russian": "помочь",
-        "english": "to help (See #857)",
+        "english": "to help ",
+        "ref": 857,
         "type": "verb"
     },
     { "rank": 737, "russian": "кожа", "english": "skin", "type": "noun" },
@@ -3563,7 +3615,8 @@
     {
         "rank": 773,
         "russian": "баба",
-        "english": "woman, wife, old woman, (See #911)",
+        "english": "woman, wife, old woman, ",
+        "ref": 911,
         "type": "noun"
     },
     {
@@ -3603,7 +3656,8 @@
     {
         "rank": 783,
         "russian": "получать",
-        "english": "to receive, get (See #239)",
+        "english": "to receive, get ",
+        "ref": 239,
         "type": "verb"
     },
     {
@@ -3668,13 +3722,15 @@
     {
         "rank": 798,
         "russian": "подходить",
-        "english": "to come up, approach;to fit(See #361)",
+        "english": "to come up, approach;to fit",
+        "ref": 361,
         "type": "verb"
     },
     {
         "rank": 799,
         "russian": "много",
-        "english": "many, much, a lot of(See #187)",
+        "english": "many, much, a lot of",
+        "ref": 187,
         "type": "adverb"
     },
     { "rank": 800, "russian": "лоб", "english": "forehead", "type": "noun" },
@@ -3770,7 +3826,8 @@
     },
     {
         "rank": 821,
-        "russian": "вызывать (See #663)",
+        "russian": "вызывать ",
+        "ref": 663,
         "english": "to call, send",
         "type": "verb"
     },
@@ -3922,7 +3979,8 @@
     {
         "rank": 857,
         "russian": "помогать",
-        "english": "to help, assist(See #736)",
+        "english": "to help, assist",
+        "ref": 736,
         "type": "verb"
     },
     {
@@ -4087,7 +4145,8 @@
     {
         "rank": 892,
         "russian": "возникать",
-        "english": "to arise, appear(See #951)",
+        "english": "to arise, appear",
+        "ref": 951,
         "type": "verb"
     },
     {
@@ -4161,7 +4220,8 @@
     {
         "rank": 911,
         "russian": "бабушка",
-        "english": "grandmother(See #773)",
+        "english": "grandmother",
+        "ref": 773,
         "type": "noun"
     },
     { "rank": 912, "russian": "вино", "english": "wine", "type": "noun" },
@@ -4193,7 +4253,8 @@
     {
         "rank": 918,
         "russian": "папа",
-        "english": "dad, daddy(See #165)",
+        "english": "dad, daddy",
+        "ref": 165,
         "type": "noun"
     },
     {
@@ -4312,7 +4373,7 @@
     { "rank": 947, "russian": "столь", "english": "so", "type": "adverb" },
     {
         "rank": 948,
-        "russian": "мешать",
+        "russian": "ме��ать",
         "english": "to interfere, prevent; mix",
         "type": "verb"
     },
@@ -4326,7 +4387,8 @@
     {
         "rank": 951,
         "russian": "возникнуть",
-        "english": "to arise, spring up(See #892)",
+        "english": "to arise, spring up",
+        "ref": 892,
         "type": "verb"
     },
     {
@@ -4432,13 +4494,15 @@
     {
         "rank": 972,
         "russian": "наверно",
-        "english": "probably(See #461)",
+        "english": "probably",
+        "ref": 461,
         "type": "adverb"
     },
     {
         "rank": 973,
         "russian": "проводить",
-        "english": "to lead, escort; accompany(See #713)",
+        "english": "to lead, escort; accompany",
+        "ref": 713,
         "type": "verb"
     },
     {
@@ -4481,7 +4545,8 @@
     {
         "rank": 981,
         "russian": "собраться",
-        "english": "to gather, collect(See #479)",
+        "english": "to gather, collect",
+        "ref": 479,
         "type": "verb"
     },
     {
@@ -4550,7 +4615,8 @@
     {
         "rank": 1000,
         "russian": "пора",
-        "english": "it's time;at times, now and then(See #279)",
+        "english": "it's time;at times, now and then",
+        "ref": 279,
         "type": "misc"
     }
 ]

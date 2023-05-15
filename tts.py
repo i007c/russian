@@ -1,38 +1,68 @@
 import json
+import os
 import time
 from pathlib import Path
 
 import gtts
 
 BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / 'mp3'
-DATA_DIR.mkdir(exist_ok=True, parents=True)
+MP3_DIR = BASE_DIR / 'mp3'
+MP3_DIR.mkdir(exist_ok=True, parents=True)
+
+MP4_DIR = BASE_DIR / 'mp4'
+MP4_DIR.mkdir(exist_ok=True, parents=True)
+
+
+S = 25
 
 
 def main():
     with open(BASE_DIR / 'words.json', 'r') as f:
         data = json.load(f)
 
+    n = 0
     for row in data:
         rank = row['rank']
         ru = row['russian']
         en = row['english']
-        word_type = row['type']
-        print(f'[{rank}] {ru} :: {en} | {word_type}')
+        wt = row['type']
+        ref = row.get('ref')
+        print(f'[{rank}][{ref}] {ru} :: {en} | {wt}')
 
         try:
+            ru_mp3 = MP3_DIR / f'{rank}.ru.mp3'
+            en_mp3 = MP3_DIR / f'{rank}.en.mp3'
 
-            save_dir = DATA_DIR / word_type
-            save_dir.mkdir(exist_ok=True, parents=True)
+            gtts.gTTS(ru, lang='ru').save(ru_mp3)
+            time.sleep(10)
+            gtts.gTTS(en, lang='en').save(en_mp3)
 
-            ru_save_file = save_dir / f'{rank}.ru.mp3'
-            en_save_file = save_dir / f'{rank}.en.mp3'
+            n += 1
 
-            gtts.gTTS(ru, lang='ru').save(ru_save_file)
-            gtts.gTTS(en, lang='en').save(en_save_file)
-            time.sleep(0.1)
+            if len(en) > S:
+                for i in range(1, (len(en) // S)+1):
+                    en = en[:i*S] + '\n' + en[i*S:]
+
+            if len(ru) > S:
+                for i in range(1, (len(ru) // S)+1):
+                    ru = ru[:i*S] + '\n' + ru[i*S:]
+
+            if not ru_mp3.is_file() or not en_mp3.is_file():
+                continue
+
+            r = f'[{rank}]'
+            if ref:
+                r += f'[{ref}]'
+
+            os.system(f'bash get.sh {ru_mp3} "{r}" "{ru}" "{wt}" ru.mp4')
+            os.system(f'bash get.sh {en_mp3} "{r}" "{en}" "{wt}" en.mp4')
+            os.system(f'bash con.sh mp4/{n}.mp4')
+
+            time.sleep(10)
         except Exception as e:
             print(e)
+
+        print('done', n)
 
 
 if __name__ == '__main__':
