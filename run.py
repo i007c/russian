@@ -17,17 +17,22 @@ def main():
         rank = row['rank']
         ru = row['russian']
         en = row['english']
-        work_type = row['type']
+        word_type = row['type']
+        print(f'[{rank}] {ru} :: {en} | {word_type}')
 
-        save_dir = DATA_DIR / work_type
-        save_dir.mkdir(exist_ok=True, parents=True)
+        try:
 
-        ru_save_file = save_dir / f'{rank}.ru.mp3'
-        en_save_file = save_dir / f'{rank}.en.mp3'
+            save_dir = DATA_DIR / word_type
+            save_dir.mkdir(exist_ok=True, parents=True)
 
-        gtts.gTTS(ru, lang='ru').save(ru_save_file)
-        gtts.gTTS(en, lang='en').save(en_save_file)
-        time.sleep(0.1)
+            ru_save_file = save_dir / f'{rank}.ru.mp3'
+            en_save_file = save_dir / f'{rank}.en.mp3'
+
+            gtts.gTTS(ru, lang='ru').save(ru_save_file)
+            gtts.gTTS(en, lang='en').save(en_save_file)
+            time.sleep(0.1)
+        except Exception as e:
+            print(e)
 
 
 if __name__ == '__main__':
