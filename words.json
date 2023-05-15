@@ -396,7 +396,7 @@
     {
         "rank": 90,
         "russian": "при",
-        "english": "attached to, in the presence of, by, about; masterrussian, dot com",
+        "english": "attached to, in the presence of",
         "type": "preposition"
     },
     {
@@ -610,7 +610,7 @@
     {
         "rank": 139,
         "russian": "казаться",
-        "english": "to seem, appear; masterrussian, dot com",
+        "english": "to seem, appear",
         "type": "verb"
     },
     {
@@ -788,7 +788,7 @@
     {
         "rank": 177,
         "russian": "дать",
-        "english": "to give; masterrussian, dot com",
+        "english": "to give",
         "type": "verb"
     },
     {
@@ -986,7 +986,7 @@
     {
         "rank": 225,
         "russian": "улица",
-        "english": "street; masterrussian, dot com",
+        "english": "street",
         "type": "noun"
     },
     {
@@ -1527,7 +1527,7 @@
     {
         "rank": 341,
         "russian": "собственный",
-        "english": "one's own; masterrussian, dot com",
+        "english": "one's own",
         "type": "adjective"
     },
     {
@@ -1888,7 +1888,7 @@
     {
         "rank": 417,
         "russian": "верить",
-        "english": "to believe; masterrussian, dot com",
+        "english": "to believe",
         "type": "verb"
     },
     { "rank": 418, "russian": "группа", "english": "group", "type": "noun" },
@@ -2112,7 +2112,7 @@
     {
         "rank": 466,
         "russian": "домой",
-        "english": "home(as in \"she came home\")",
+        "english": "home(as in 'she came home')",
         "type": "adverb"
     },
     { "rank": 467, "russian": "огонь", "english": "fire", "type": "noun" },
@@ -2130,12 +2130,6 @@
         "russian": "очередь",
         "english": "line, queue, turn",
         "type": "noun"
-    },
-    {
-        "rank": 473,
-        "russian": "кой",
-        "english": "which (old-fashioned, literary); mostly found in set expressions: ни в ко́ем слу́чае, ни ко́им о́бразом, в кои ве́ки, на кой чёрт?",
-        "type": "pronoun"
     },
     {
         "rank": 474,
@@ -2441,7 +2435,7 @@
     {
         "rank": 535,
         "russian": "красивый",
-        "english": "beautiful; masterrussian, dot com",
+        "english": "beautiful",
         "type": "adjective"
     },
     {
@@ -2682,7 +2676,7 @@
     {
         "rank": 581,
         "russian": "худой",
-        "english": "thin, skinny; masterrussian.com",
+        "english": "thin, skinny",
         "type": "adjective"
     },
     { "rank": 582, "russian": "дух", "english": "spirit", "type": "noun" },
@@ -2879,7 +2873,7 @@
     {
         "rank": 623,
         "russian": "принести",
-        "english": "to bring; masterrussian",
+        "english": "to bring",
         "type": "verb"
     },
     {
@@ -3339,7 +3333,7 @@
     {
         "rank": 718,
         "russian": "родитель",
-        "english": "parent; masterrussian, dot, com",
+        "english": "parent",
         "type": "noun"
     },
     {
@@ -3790,7 +3784,7 @@
     {
         "rank": 824,
         "russian": "совет",
-        "english": "advice; masterrussian, dot com",
+        "english": "advice",
         "type": "noun"
     },
     {
@@ -4193,7 +4187,7 @@
     {
         "rank": 917,
         "russian": "круг",
-        "english": "circle; masterrussian, dot com",
+        "english": "circle",
         "type": "noun"
     },
     {

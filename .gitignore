@@ -161,3 +161,8 @@ cython_debug/
 
 node_modules/
 mp3/
+mp4/
+*.mp3
+*.mp4
+ru_en
+all_list.txt
