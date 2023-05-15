@@ -28,7 +28,6 @@ def main():
         gtts.gTTS(ru, lang='ru').save(ru_save_file)
         gtts.gTTS(en, lang='en').save(en_save_file)
         time.sleep(0.1)
-        break
 
 
 if __name__ == '__main__':
